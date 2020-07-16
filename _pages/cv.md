@@ -11,30 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science and Engineering, 
+  Khulna University, 2012
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2019 - Present: Lecturer
+  * The Millennium University, Dhaka (Bangladesh) 
+  * Department of Computer Science and Engineering
+      ▪	Instructed undergraduate courses: Structured Programming, Object-Oriented Analysis & Design, Software Engineering, Digital Logic Design, Introduction to Computer, etc.
+      ▪	Responsibilities: Lecture planning, taught and instructed courses, assessing students, holding office hours, invigilating examinations, supervising application development projects, etc.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Technical skills	
+  ▪	Problem Solving: C/C++ (Proficient), Java, C# (Familiar)
+  ▪	Web Development: PHP, MySQL (Proficient), JavaScript, SQL (Familiar)
+  ▪	Image Processing and Machine Learning: MATLAB ( Proficient), Python, Keras, OpenCV (Familiar)
+  ▪	Tools:
+    ▫	LaTeX, Microsoft Office, Version Control: Git
+
+* Organizational skills	
+  ▪	Organized and managed Gaming Section of Inter-University CSE FEST on behalf of CLUSTER; a computer club that arranges seminars, programming contests and publishes magazines, etc.
+  ▪	Co-founder and volunteer of Muktomoncho, a community organization which addresses the mental health of nationwide students
+Communication skills	
+  ▪	Developed excellent communication skills since 
+    ▫	I have been conducting lectures and supervising Bachelor students for 9 months
+    ▫	I have worked with hundreds of university students as a part of Muktomoncho
+  ▪	Improved collaboration skills through
+    ▫	working as a leader or member of several teams in different academic projects
+    ▫	playing for the department's football team
 
 Publications
 ======
@@ -56,4 +65,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Course Coordinator of the Department of CSE & ICt at the Millennium University from December 2019 to present
