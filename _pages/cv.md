@@ -44,11 +44,12 @@ Skills
 Communication skills	
 
   *  	Developed excellent communication skills since 
-    *    	I have been conducting lectures and supervising Bachelor students for 9 months
-    *    	I have worked with hundreds of university students as a part of Muktomoncho
-  *  ▪	Improved collaboration skills through
-    *    	working as a leader or member of several teams in different academic projects
-    *    	playing for the department's football team
+      *     I have been conducting lectures and supervising Bachelor students for 9 months
+      *     I have worked with hundreds of university students as a part of Muktomoncho
+
+  *  	Improved collaboration skills through
+      *     working as a leader or member of several teams in different academic projects
+      *     playing for the department's football team
 
 Publications
 ======
@@ -58,8 +59,8 @@ Publications
   
 Projects
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
+  <ul>{% for post in site.projects %}
+    {% include archive-single-project-cv.html %}
   {% endfor %}</ul>
   
 Teaching

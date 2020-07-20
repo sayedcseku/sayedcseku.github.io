@@ -13,9 +13,10 @@ I have joined the Department of Computer Science and Engineering of The Millenni
 Course Conducted
 ======
     * Structured Programming
-    * Object-Oriented Analysis & Design
+    * Data Structure
     * Algorithm Analysis & Design
     * Software Engineering 
+    * Object-Oriented Analysis & Design
     * Digital Logic Design
     * Computer Network
     * Introduction to Computer
