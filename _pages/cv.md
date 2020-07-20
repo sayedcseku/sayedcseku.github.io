@@ -60,7 +60,7 @@ Publications
 Projects
 ======
   <ul>{% for post in site.projects %}
-    {% include archive-single-project-cv.html %}
+    {% include archive-single.html %}
   {% endfor %}</ul>
   
 Teaching
