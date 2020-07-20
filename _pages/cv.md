@@ -44,11 +44,13 @@ Skills
 Communication skills	
 
   *  	Developed excellent communication skills since 
+
       *     I have been conducting lectures and supervising Bachelor students for 9 months
       *     I have worked with hundreds of university students as a part of Muktomoncho
 
   *  	Improved collaboration skills through
-      *     working as a leader or member of several teams in different academic projects
+
+      *     working as a leader or member of several teams in different academic projects      
       *     playing for the department's football team
 
 Publications
@@ -71,4 +73,4 @@ Teaching
   
 Service and leadership
 ======
-* Course Coordinator of the Department of CSE & ICt at the Millennium University for 8 months (December 2019 to present)
+* Course Coordinator of the Department of CSE & ICT at the Millennium University for 8 months (December 2019 to present)
