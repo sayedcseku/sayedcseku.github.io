@@ -9,4 +9,4 @@ I tried to implemented two Data Mining theories in Object Detection Problem. One
 
 <img src='/images/500x300.png'>
 
-Github: https://github.com/sayedcseku/data-mining
+Github: (https://github.com/sayedcseku/data-mining)
