@@ -1,5 +1,5 @@
 ---
-title: "Local Haar Pattern: A Feature Descriptor from Biomedical Images"
+title: "Local Haar Pattern: A Feature Descriptor for Biomedical Images"
 excerpt: "In order to compute the LHP descriptor a patch p of size 32×32 is consider around
 the pixel of interest, and vector of size 128 bytes is calculated that represents the patch.
 Each byte of the vector is computed based on the intensity comparisons of two-pixel groups. <br/>"
@@ -41,9 +41,11 @@ of the sub-patches is further divided into 4 sub-patches of size 8 × 8 and the 
 patterns of Figure 10 are considered to perform intensity comparisons, which results 48
 (=16 × 3)- bytes vector.
 
-Read the full details of this work in my AIME2019 Paper. [https://sayedcseku.github.io/publication/AIME2019]
+Read the full details of this work in my AIME2019 Paper.
+[AIME2019] (https://sayedcseku.github.io/publication/AIME2019)
 
 References:
+
 
 [1] Saha, Sajib, and Vincent Demoulin. ”ALOHA: An e ´ fficient binary descriptor based
 on Haar features.” In Image Processing (ICIP), 2012 19th IEEE International Conference on, pp. 2345-2348. IEEE, 2012.

@@ -16,8 +16,7 @@ overcome the most of the other challenges such as segmentation in presence of ce
 vessel reflex, crossover and bifurcation regions etc. We evaluate the proposed method
 on three publicly available and popular dataset: DRIVE, STARE and CHASE DB1. We
 get promising performance for each of the dataset. For DRIVE dataset, the Accuracy,
-Area Under Curve (AUC), Sensitivity, Specificity are 0.961, 0.847, 0.711 and 0.983 respectively. For STARE dataset, they are 0.960, 0.878, 0.790 and 0.973 respectively and
-for CHASE DB1 they are 0.951, 0.854, 0.742 and 0.967. To extract trainable feature, we
+Area Under Curve (AUC), Sensitivity, Specificity are 0.961, 0.847, 0.711 and 0.983 respectively. For STARE dataset, they are 0.960, 0.878, 0.790 and 0.973 respectively and for CHASE DB1 they are 0.951, 0.854, 0.742 and 0.967. To extract trainable feature, we
 propose a descriptor and compare the descriptor with a novel descriptor (SURF). We get
 nearly identical performance for the proposed descriptor respect to SURF descriptor.
 

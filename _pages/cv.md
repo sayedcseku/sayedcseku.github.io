@@ -61,7 +61,7 @@ Publications
   
 Research & Projects
 ======
-  <ul>{% for post in site.projects reversed %}
+  <ul>{% for post in site.projects reversed%}
     {% include archive-single.html %}
   {% endfor %}</ul>
   
