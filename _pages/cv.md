@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Full Curriculum Vitae](http://sayedcseku.github.io/files/CV-Sayed.pdf)
+
 Education
 ======
 * B.S. in Computer Science and Engineering, 
