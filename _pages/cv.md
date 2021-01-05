@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science and Engineering, 
+* B.Sc. in Computer Science and Engineering, 
   Khulna University, 2019
 
 
