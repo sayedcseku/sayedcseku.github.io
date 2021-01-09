@@ -13,12 +13,12 @@ Welcome to my Homepage. I am Md. Abu Sayed, Lecturer of the Department of Comput
 At The Millennium University, I have instructed several undergraduate courses including Structured Programming, Data Structure, Object-Oriented Analysis & Design, Software Engineering, Digital Logic Design, Artificial Intelligence and Neural Networks, etc. My interpersonal and communication skills have helped me to build strong relationships with students, administrators, fellow lecturers, and other faculty and administrative personnel, leading to the effective development of course syllabus, classroom materials, and program improvements. I also hold the Coourse Coordinator position of the department since January 2020.
 
 # Research Interest:
-        Computer Vision, Machine Learning and Deep Learning in Medical Image Analysis, Health-care, etc.
+
+Computer Vision, Machine Learning and Deep Learning in Medical Image Analysis, Health-care, etc.
 
 # Passions: 
-        Learning new idea, Football
-        
-# Hobbies: 
-        Books, Anime, Football
+
+Learning new idea, Football
+
 
 I am also interested in and actively participate in volunteering activities. I believe participating in many volunteering activities can help to grow a better community. 
