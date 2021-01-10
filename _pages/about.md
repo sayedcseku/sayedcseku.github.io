@@ -14,11 +14,11 @@ At The Millennium University, I have instructed several undergraduate courses in
 
 # Research Interest:
 
-Computer Vision, Machine Learning and Deep Learning in Medical Image Analysis, Health-care, etc.
+    Machine Learning and Deep Learning in Computer Vision, Medical Image Analysis, Health-care, Software Engineering, etc.
 
 # Passions: 
 
-Learning new idea, Football
+    Learning new idea, Football
 
 
 I am also interested in and actively participate in volunteering activities. I believe participating in many volunteering activities can help to grow a better community. 
