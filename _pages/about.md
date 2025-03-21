@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Sayed_Venice_PP.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Department of Computer Science and Engineering</p>
@@ -31,8 +31,4 @@ Md Abu Sayed is a Ph.D. student in Computer Science and Engineering at the Unive
 
 In addition to his academic pursuits, Abu Sayed is actively involved in university communities. He served as the Vice President of the International Students Club and organized the "Night of All Nations" event in 2023. He was also the Treasurer for the Bangladeshi Student Association during the 2022-23 session. He also represented the College of Engineering at the Graduate Student Association, advocated for students from his college and other communities, and he helped arranged countless GSA events such as the GSA Spring Award, GSA Fall Poster Symposium, etc. 
 
-< Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. >
 
-< Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.>
-
-< Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.>
