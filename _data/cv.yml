@@ -2,96 +2,127 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Md Abu Sayed
+    - name: Phone
+      value: +1(775) 447-2701
+    - name: Email
+      value: <a href="mailto:msayed@unr.edu">msayed@unr.edu</a>
+    - name: Website
+      value: <a href="https://sayedcseku.github.io">sayedcseku.github.io</a>
+    - name: LinkedIn
+      value: <a href="https://www.linkedin.com/in/sayedcseku/">linkedin.com/in/sayedcseku</a>
+    - name: Location
+      value: Reno, NV
+
+- title: Objective
+  type: text
+  contents:
+    - Seeking a machine learning engineer internship to apply advanced research experience and technical expertise in ML/DL to solve real-world challenges and contribute to innovative solutions.
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Doctor of Philosophy in Computer Science and Engineering
+      institution: University of Nevada, Reno
+      year: Expected: Dec 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Major Courses: Introduction to Machine Learning, Fundamentals of Deep Learning, Stochastic Deep Learning, Mass Detection in Mammograms, Advanced Bioinformatics, Autonomous Mobile Manipulation, etc.
+    - title: Master of Science in Computer Science and Engineering
+      institution: University of Nevada, Reno
+      year: 2021 - 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Thesis: <a href="http://hdl.handle.net/11714/10847">Threatmap: A Framework for Enhancing Security Awareness and Decision-Making for Naval Agents</a>
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Skills
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Programming: Python, C/C++ (Proficient), Java, C#
+    - Machine Learning and Computer Vision: OpenCV, Keras (Proficient), TensorFlow, PyTorch, MATLAB
+    - Simulation/Game: Unity, C#, Python
+    - Web Development: PHP, MySQL, JavaScript, SQL
+
+- title: Research and Projects
+  type: nested_list
+  contents:
+    - title: Threatmap: Framework for Enhanced Naval Security Awareness
+      items:
+        - Designed and implemented a real-time framework to enhance situational awareness and threat prediction for naval agents using machine learning algorithms.
+        - Designed realistic agent models that include systems for sensing and defense and their structured coverage areas.
+        - Published in Proceedings of the Conference on Harbor, Maritime and Multimodal Logistic Modeling & Simulation.
+    - title: NavySim: Multi-Vessel Simulation and Analysis Engine
+      items:
+        - Created NavySim, a simulation engine for advanced naval research, enabling analysis and modeling of multiple vessels in complex scenarios.
+        - Utilized HMMs, LSTMs, Threatmap, and other intent recognition algorithms to provide real-time prediction of vessel intent in the presence of coordinated groups/swarms of adversarial ships/boats.
+        - Published in IEEE Conference on Games '24 and under review in IEEE Transactions on Games and CASE '25.
+    - title: Retinal Blood Vessel Segmentation
+      items:
+        - Implemented models integrating supervised and unsupervised learning techniques to increase segmentation precision.
+        - Designed Local Haar Pattern descriptor to extract features that can act to encode ad-hoc domain knowledge.
+        - Published in IET Image Processing '20 journal and AIME '19, IbPRIA '19 conferences.
+    - title: Dynamic Resource Allocation and Risk Minimization in Maritime Environments
+      items:
+        - Developed a novel Genetic Algorithm-based resource allocation framework for ship security focusing on visual analytics and multi-objective optimization.
+        - Conducted an extensive evaluation of resource allocation techniques in complex, real-world maritime scenarios.
+        - Published in ICINCO '23 and under review in ICINCO Lecture Note Series.
+    - title: Fusion of Multimodal Mammogram Views to Detect Breast Cancer
+      items:
+        - Used graph convolution to learn to reason bilateral and ipsilateral views of the breast and detect mass.
+        - Introduced a geometric architectural distortion data augmentation scheme to reason temporally to localize changes in breast mass and calcification.
+        - GitHub: <a href="https://github.com/Znasif/ContrastMammogram">ContrastMammogram</a>
+
+- title: Professional Experience
+  type: time_table
+  contents:
+    - title: Graduate Research Assistant
+      institution: University of Nevada, Reno
+      year: Aug 2021 – Present
+      description:
+        - Developed a framework to design realistic agent models, recognize intent in adversarial scenarios, and provide recommendations for threat minimization.
+        - Developed a Unity-based naval simulator for generating complex scenarios and testing concepts and algorithms.
+        - Worked closely with a naval security company to validate and deploy models in water boats.
+    - title: Graduate Teaching Assistant
+      institution: University of Nevada, Reno
+      year: Aug 2021 – Present
+      description:
+        - Assisted in CS 477/677: Analysis of Algorithms (Fall 2021, Spring 2022, Fall 2024).
+        - Graded assignments, held office hours, and supported students with coursework.
+    - title: Lecturer
+      institution: The Millennium University, Dhaka, Bangladesh
+      year: Jun 2019 – Jul 2021
+      description:
+        - Instructed courses such as Structured Programming, Data Structure, Artificial Intelligence & Neural Networks.
+        - Planned lectures, assessed students, and supervised application development projects.
+
+- title: Research Interests
+  type: list
+  contents:
+    - Machine Learning
+    - Deep Learning in Intent Recognition
+    - Human-Robot Interaction
+    - Medical Image Analysis
+    - Computer Vision
+
+- title: Extracurricular Activities
+  type: nested_list
+  contents:
+    - title: Graduate Student Association
+      items:
+        - Council Member (Feb 2024 - Present)
+        - Chair of the GSA Awards Committee
+        - Representing the College of Engineering at GSA as a council member.
+    - title: International Students Club
+      items:
+        - Vice President (May 2023 - Present)
+        - Organized the "Night of All Nations" multicultural event at UNR.
+        - Arranged monthly meetups for international students to socialize.
+    - title: Google Developer Group Campus
+      items:
+        - Co-Lead (Aug 2024 - Present)
+        - Organized the DevFest in collaboration with GDG Reno in Nov 2024.
+
+- title: MOOCs & Trainings
+  type: list
+  contents:
+    - <a href="https://coursera.org/share/7e7115cb7d829988aa1cbee576b39810">Deep Learning Specialization (5 Courses) by Andrew NG</a> - DeepLearning.ai, Coursera
+    - <a href="https://coursera.org/verify/Q5VL2UPKQASF">Mathematics for Machine Learning Specialization</a> - Imperial College, London; Coursera
+    - <a href="https://coursera.org/verify/QYWUSTKH3CV7">Generative Adversarial Networks (GANs)</a> - DeepLearning.ai, Coursera
