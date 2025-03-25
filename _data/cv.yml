@@ -1,18 +1,12 @@
 - title: General Information
   type: map
   contents:
- - name: Full Name
-      value: Md Abu Sayed
-    - name: Phone
-      value: +1(775) 447-2701
-    - name: Email
-      value: <a href="mailto:msayed@unr.edu">msayed@unr.edu</a>
-    - name: Website
-      value: <a href="https://sayedcseku.github.io">sayedcseku.github.io</a>
-    - name: LinkedIn
-      value: <a href="https://www.linkedin.com/in/sayedcseku/">linkedin.com/in/sayedcseku</a>
-    - name: Location
-      value: Reno, NV
+    - name: Full Name
+      value: Albert Einstein
+    - name: Date of Birth
+      value: 14th March 1879
+    - name: Languages
+      value: English, German
 
 - title: Education
   type: time_table
