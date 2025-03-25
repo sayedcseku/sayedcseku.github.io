@@ -2,32 +2,31 @@
   type: map
   contents:
     - name: Full Name
-      value: Md Abu Sayed
-    - name: Phone
-      value: +1(775) 447-2701
-    - name: Email
-      value: <a href="mailto:msayed@unr.edu">msayed@unr.edu</a>
-    - name: Website
-      value: <a href="https://sayedcseku.github.io">sayedcseku.github.io</a>
-    - name: LinkedIn
-      value: <a href="https://www.linkedin.com/in/sayedcseku/">linkedin.com/in/sayedcseku</a>
-    - name: Location
-      value: Reno, NV
+      value: Albert Einstein
+    - name: Date of Birth
+      value: 14th March 1879
+    - name: Languages
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: Doctor of Philosophy in Computer Science and Engineering
-      institution: University of Nevada, Reno
-      year: Expected: Dec 2025
+    - title: PhD
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
-        - Major Courses: Introduction to Machine Learning, Fundamentals of Deep Learning, Stochastic Deep Learning, Mass Detection in Mammograms, Advanced Bioinformatics, Autonomous Mobile Manipulation, etc.
-    - title: Master of Science in Computer Science and Engineering
-      institution: University of Nevada, Reno
-      year: 2021 - 2023
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
       description:
-        - Thesis: <a href="http://hdl.handle.net/11714/10847">Threatmap: A Framework for Enhancing Security Awareness and Decision-Making for Naval Agents</a>
-
+        - Description 1.
+        - Description 2.
 
 - title: Experience
   type: time_table
@@ -96,5 +95,3 @@
   type: list
   contents:
     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
-
-
