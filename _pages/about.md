@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Ph.D. Student. Department of Computer Science and Engineering. University of Nevada, Reno.
 
 profile:
   align: right
   image: pp-grad.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>WPEB 312, Computer Science and Engineering</p>
+    <p>University of Nevada</p>
+    <p>Reno, Nevada 89557</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
