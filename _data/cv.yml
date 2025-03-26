@@ -18,15 +18,6 @@
           contents:
         - Introduction to Machine Learning, Fundamentals of Deep Learning, Stochastic Deep Learning, Mass Detection in Mammograms, Advanced Bioinformatics, Autonomous Mobile Manipulation, etc.
   
-    - title: Master of Science in Computer Science and Engineering
-      institution: University of Nevada, Reno
-      year: 2021 - 2023
-      description:
-        - title: 
-          contents: 
-          - Thesis: <a href="http://hdl.handle.net/11714/10847">Threatmap: A Framework for Enhancing Security Awareness and Decision-Making for Naval Agents</a>
-          - Advisor: Prof. Monica Nicolescu
-
 - title: Experience
   type: time_table
   contents:
