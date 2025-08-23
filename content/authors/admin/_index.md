@@ -3,7 +3,7 @@
 title: Md Abu Sayed
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Md Abu
@@ -23,64 +23,66 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Candidate | AI Engineer
+role: Ph.D. Candidate | Gen AI | Naval Security | Simulation | Robotic Vision
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Nevada, Reno
+    url: https://unr.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:ysayed.unr@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/sayedcseku
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/sayedcseku
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/sayedcseku
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?hl=en&user=U3-jpUgAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Generative AI
+  - Intent Recognition
+  - Simulation and AI
+  - Robotic Vision
+  - Medical Image Analysis
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Ph.D. in Computer Science & Engineering
+    institution: University of Nevada, Reno
+    date_start: 2021-08-01
+    date_end: 2026-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.Sc. in Computer Science & Engineering
+    institution: University of Nevada, Reno
+    date_start: 2021-08-01
+    date_end: 2023-12-05
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.9/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.Sc. in Computer Science & Engineering
+    institution: Khulna University, Bangladesh
+    date_start: 2014-12-01
+    date_end: 2019-01-15
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.31/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -147,9 +149,9 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: Bangla
+    percent: 100
+  - name: Spanish
     percent: 25
 
 # Awards.
@@ -186,4 +188,8 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome to the personal website of Md Abu Sayed, a passionate Ph.D. student in Computer Science and Engineering at the University of Nevada, Reno (UNR). His research focuses on the cutting-edge domain of Robotic Vision, with a particular emphasis on activity and intent recognition in a group of agents operating in Naval Space. This innovative work is a collaborative effort between the Robotics Research Lab and Computer Vision Lab at UNR.
+
+Before embarking on his Ph.D. journey, Sayed was a Lecturer in the Department of Computer Science and Engineering at The Millennium University, Bangladesh. He earned his Bachelor’s degree in Computer Science and Engineering from Khulna University, Bangladesh, in January 2019. His undergraduate thesis explored an automated method to segment retinal blood vessels from color fundus photographs, showcasing his early dedication to impactful research.
+
+Beyond academia, Sayed is deeply committed to community engagement has been steadfast throughout his academic journey. As Vice President of the International Students Club at UNR, he organized significant events like the Night of All Nations, showcasing the diversity of 32 countries. As Treasurer of the Bangladeshi Student Association, he managed funds and organized cultural events. Noteably, as a Council Member of the Graduate Student Association, he represented the College of Engineering and contribute to committees, ensuring the needs and interests of graduate students are met.
