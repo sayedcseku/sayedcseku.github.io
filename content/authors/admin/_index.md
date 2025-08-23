@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Md. Abu Sayed
+title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Mohammad Abu Sayed
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Md Abu
-last_name: Sayed
+first_name: Shiung Wu
+last_name: Chien
 
 # Pronouns (optional)
-pronouns: He/his
+pronouns: she/her
 
 # Status emoji
 status:
@@ -23,44 +23,42 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Candidate | Gen AI | Naval Agent Security | Simulation | Robotic Vision
+role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Nevada, Reno
-    url: https://unr.edu/
+  - name: OpenAI
+    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:sayed.unr@gmail.com'
+    url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/
+    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/sayedcseku
+    url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/sayedcseku
+    url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?hl=en&user=U3-jpUgAAAAJ
+    url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
-  - Intent Recognition
-  - Robotic Vision
-  - Generative AI
-  - Medical Image Analysis
-  - Temporal Data Analysis
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
-  - area: Ph.D. in Computer Science & Engineering
-    institution: University of Nevada, Reno
-    date_start: 2021-8-01
-    date_end: 2026-12-01
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
