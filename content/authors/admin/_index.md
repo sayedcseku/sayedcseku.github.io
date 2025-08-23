@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 吳健雄
+title: Md Abu Sayed
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Md Abu
+last_name: Sayed
 
 # Pronouns (optional)
-pronouns: she/her
+pronouns: 
 
 # Status emoji
 status:
@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Ph.D. Candidate | AI Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
