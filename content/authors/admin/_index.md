@@ -34,12 +34,12 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:ysayed.unr@gmail.com'
+    url: 'mailto:sayed.unr@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/sayedcseku
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/masvisuals_
   - icon: brands/github
     url: https://github.com/sayedcseku
   - icon: brands/linkedin
@@ -47,7 +47,7 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=en&user=U3-jpUgAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0005-8170-920X
 
 interests:
   - Generative AI
