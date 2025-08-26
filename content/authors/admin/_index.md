@@ -55,6 +55,8 @@ interests:
   - Simulation and AI
   - Robotic Vision
   - Medical Image Analysis
+  - Temporal Data Analysis
+  
 
 education:
   - area: Ph.D. in Computer Science & Engineering
