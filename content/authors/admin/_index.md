@@ -167,7 +167,7 @@ skills:
       - name: football
         description: ''
         percent: 100
-        icon: soccer
+        icon: cat
       - name: Photography
         description: ''
         percent: 100
