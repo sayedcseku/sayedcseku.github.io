@@ -81,7 +81,7 @@ education:
     summary: |
       GPA: 3.9/4.0
 
-      Thesis on _TThreatmap: A Framework for Enhancing Security Awareness and Decision-Making for Naval Agents_. Supervised by [Prof. Monica Nicolescu](https://www.cse.unr.edu/~monica/) and cosupervised [Prof. Mircea Nicolescu] (https://www.cse.unr.edu/~mircea/). Presented papers at 1 IEEE Conference on Games, 1 Simulation Conference and published at 3 other conferences/journals.
+      Thesis on _TThreatmap: A Framework for Enhancing Security Awareness and Decision-Making for Naval Agents_. Supervised by [Prof. Monica Nicolescu](https://www.cse.unr.edu/~monica/) and cosupervised [Prof. Mircea Nicolescu] (https://www.cse.unr.edu/~mircea/). Presented 1 papers at IEEE Conference on Games, 1 Simulation Conference and published at 3 other conferences/journals.
 
       Courses included:
       - Introduction to Machine Learning
@@ -101,7 +101,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-- position: Graduate Research Assistant 
+  - position: Graduate Research Assistant 
     company_name: University of Nevada, Reno 
     company_url: ''
     company_logo: ''
@@ -114,7 +114,7 @@ work:
       - Designed realistic agent models that include systems for sensing and defense and their structured coverage areas.
       - Utilized HMMs, LSTMs, Threatmap, and other intent recognition algorithms to provide real-time prediction of vessel intent in the presence of coordinated groups/swarms of adversarial ships/boats
 
-- position: Graduate Teaching Assistant 
+  - position: Graduate Teaching Assistant 
     company_name: University of Nevada, Reno 
     company_url: ''
     company_logo: ''
@@ -126,7 +126,7 @@ work:
       - CS 477/677: Analysis of Algorithms [Fall 2021, Spring 2022, Fall 2024, Spring 2025]
       - Helping students with lessons; Grading and Assisting with homework, exams, and/or written assignments
 
-- position: Lecturer at Department of Computer Science & Engineering
+  - position: Lecturer at Department of Computer Science & Engineering
     company_name: The Millennium University
     company_url: ''
     company_logo: ''
