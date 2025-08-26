@@ -70,9 +70,7 @@ education:
       - Autonomous Mobile Manipulation
       - Robotics for Humaity
       - Stochastic Deep Learning
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    
 
   - area: M.Sc. in Computer Science & Engineering
     institution: University of Nevada, Reno
@@ -81,14 +79,17 @@ education:
     summary: |
       GPA: 3.9/4.0
 
-      Thesis on _TThreatmap: A Framework for Enhancing Security Awareness and Decision-Making for Naval Agents_. Supervised by [Prof. Monica Nicolescu](https://www.cse.unr.edu/~monica/) and cosupervised [Prof. Mircea Nicolescu] (https://www.cse.unr.edu/~mircea/). Presented 1 papers at IEEE Conference on Games, 1 Simulation Conference and published at 3 other conferences/journals.
+      Thesis on _Threatmap: A Framework for Enhancing Security Awareness and Decision-Making for Naval Agents_. Supervised by [Prof. Monica Nicolescu](https://www.cse.unr.edu/~monica/) and cosupervised by [Prof. Mircea Nicolescu](https://www.cse.unr.edu/~mircea/). Presented 1 papers at IEEE Conference on Games, 1 Simulation Conference and published at 3 other conferences/journals.
 
       Courses included:
       - Introduction to Machine Learning
       - Fundamentals of Deep Learning
       - Mass Detection in Mammograms
       - Advanced Bioinformatics
-      
+    button:
+      text: 'Read M.Sc. Thesis'
+      url: 'https://unr.idm.oclc.org/login?url=https://www.proquest.com/dissertations-theses/threatmap-heatmap-framework-enhancing-security/docview/2922651481/se-2?accountid=452'
+
   - area: B.Sc. in Computer Science & Engineering
     institution: Khulna University, Bangladesh
     date_start: 2014-12-01
@@ -96,10 +97,11 @@ education:
     summary: |
       GPA: 3.31/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Thesis on _Automated method to segment retinal blood vessels from color fundus photographs_. Supervised by  [Prof. G M Atiqur Rahaman](https://ku.ac.bd/discipline/cse/faculty/gmatiq) and co-supervised by [Dr. Sajib Saha](https://www.linkedin.com/in/sajibsaha/)
+    button:
+      text: 'Read B.Sc. Thesis'
+      url: 'https://sayedcseku.github.io/uploads/Thesis-Retinal-Vessel-Segmentation.pdf'
+      
 work:
   - position: Graduate Research Assistant 
     company_name: University of Nevada, Reno 
