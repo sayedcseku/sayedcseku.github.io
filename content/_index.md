@@ -39,22 +39,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research focuses on developing **intelligent systems that can perceive, predict, and adapt in dynamic environments**, with applications ranging from **maritime security and simulation** to **medical image analysis and computer vision**.
+        My research focuses on intelligent systems that perceive, predict, and adapt in dynamic environments, with applications spanning maritime security, simulation and medical imaging. I began my work in medical image analysis, developing machine learning, deep learning and graph-based methods for retinal vessel segmentation and breast cancer detection. These projects sparked my interest in computer vision and AI for supporting critical, human-centered decision-making. As a Ph.D. student at the University of Nevada, Reno, I currently focus on maritime intent recognition and threat prediction, developing frameworks that can be deployed to ships and algorithms that combine HMMs, LSTMs, and transformers to model vessel behavior in uncertain and adversarial environments. My work has led to multiple publications in top IEEE conferences and journals and international presentations.
 
-        ## Research Background
-        I began my research journey working on **medical image processing**, particularly the segmentation of retinal blood vessels and the detection of breast cancer from mammograms. In these projects, I explored **deep learning, graph convolution networks, and hybrid supervised–unsupervised techniques** to enhance the accuracy of disease detection. This early work shaped my appreciation for the power of **computer vision and AI** to support critical human-centered decision-making in healthcare.
-
-        ## Current Research
-        As a Ph.D. student in **Computer Science and Engineering** at the University of Nevada, Reno, my current research centers on **machine learning and simulation for maritime intent recognition and threat prediction**. I developed **NavySim**, a multi-vessel naval simulation engine, and designed algorithms that integrate **Hidden Markov Models, LSTMs, and transformer-based approaches** for predicting vessel intentions in uncertain and adversarial environments. My work has led to multiple publications in **top IEEE conferences and journals**, and has been presented internationally in Europe.
-
-        ## Future Vision
-        Looking forward, I aim to **bridge my experience in medical image analysis, computer vision, and maritime AI** to push forward the development of **trustworthy, interpretable, and cross-domain intelligent systems**. Specifically:
-        - In **maritime security**, I will continue advancing **simulation-driven learning frameworks** and **robust intent recognition models** for safety-critical applications.
-        - In **medical imaging**, I plan to return to my earlier interests by leveraging **deep learning and computer vision** for early disease detection, cross-modal reasoning, and explainable AI for healthcare.
-        - In **computer vision and AI at large**, I am motivated to explore how **simulation and data-driven methods can work together** to create models that are both accurate and human-interpretable.
-
-        ## Impact
-        Across these domains, my ultimate goal is to design **AI systems that not only achieve state-of-the-art performance, but also enhance human trust, awareness, and decision-making**. By combining insights from **maritime simulation, computer vision, and medical imaging**, I aim to contribute to both **scientific innovation** and **real-world problem-solving**.
+        Looking ahead, I aim to bridge my expertise in medical imaging, computer vision, and simulation-driven AI to create trustworthy, interpretable, and adaptable intelligent systems. I am particularly interested in exploring cross-domain AI, where methods developed for one field can be applied to others, including healthcare, maritime security, and beyond. My broader goal is to develop AI systems that not only achieve high performance but also enhance human decision-making, awareness, and trust, combining scientific innovation with real-world impact.
         
         Please reach out to collaborate 😃
     design:
