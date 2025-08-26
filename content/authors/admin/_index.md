@@ -64,10 +64,16 @@ education:
     date_start: 2021-08-01
     date_end: 2026-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Dissertation on _Deep Generative and Explainable Learning Frameworks for Intent Recognition in Multi-Agent Systems_. Supervised by [Prof. Monica Nicolescu](https://www.cse.unr.edu/~monica/) and cosupervised [Prof. Mircea Nicolescu] (https://www.cse.unr.edu/~mircea/). Presented 2 papers at IEEE CASE, 2 forthcoming and 1 under-review conferences/journals.
+
+      Courses included:
+      - Autonomous Mobile Manipulation
+      - Robotics for Humaity
+      - Stochastic Deep Learning
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
+
   - area: M.Sc. in Computer Science & Engineering
     institution: University of Nevada, Reno
     date_start: 2021-08-01
@@ -75,10 +81,14 @@ education:
     summary: |
       GPA: 3.9/4.0
 
+      Thesis on _TThreatmap: A Framework for Enhancing Security Awareness and Decision-Making for Naval Agents_. Supervised by [Prof. Monica Nicolescu](https://www.cse.unr.edu/~monica/) and cosupervised [Prof. Mircea Nicolescu] (https://www.cse.unr.edu/~mircea/). Presented papers at 1 IEEE Conference on Games, 1 Simulation Conference and published at 3 other conferences/journals.
+
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Introduction to Machine Learning
+      - Fundamentals of Deep Learning
+      - Mass Detection in Mammograms
+      - Advanced Bioinformatics
+      
   - area: B.Sc. in Computer Science & Engineering
     institution: Khulna University, Bangladesh
     date_start: 2014-12-01
@@ -91,28 +101,43 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+- position: Graduate Research Assistant 
+    company_name: University of Nevada, Reno 
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2021-08-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Created NavySim, a Unity-based naval simulation engine for advanced naval research, enabling analysis and modeling of multiple vessels in complex scenarios.
+      - Designed and implemented a real-time framework to enhance situational awareness and threat prediction for naval agents using machine learning algorithms.
+      - Designed realistic agent models that include systems for sensing and defense and their structured coverage areas.
+      - Utilized HMMs, LSTMs, Threatmap, and other intent recognition algorithms to provide real-time prediction of vessel intent in the presence of coordinated groups/swarms of adversarial ships/boats
+
+- position: Graduate Teaching Assistant 
+    company_name: University of Nevada, Reno 
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-08-01
+    date_end: ''
+    summary: |
+      Responsibilities include:
+      - CS 422/622: Introduction to Machine Learning [Fall 2025]
+      - CS 477/677: Analysis of Algorithms [Fall 2021, Spring 2022, Fall 2024, Spring 2025]
+      - Helping students with lessons; Grading and Assisting with homework, exams, and/or written assignments
+
+- position: Lecturer at Department of Computer Science & Engineering
+    company_name: The Millennium University
+    company_url: ''
+    company_logo: ''
+    date_start: 2019-06-15
+    date_end: 2021-07-31
+    summary: |
+      Responsibilities include:
+      - Instructed courses: Structured Programming, Data Structure, Artificial Intelligence & Neural Networks, etc.
+      - Lecture planning, taught and instructed courses, assessing students, holding office hours, invigilating examinations, supervising application development projects, etc.
+      - Course Coordinator of the Department from December 2019 to July 2021
+      - Spokeperson of the Sports Teams in ``The Bangabandhu Sports Tournament 2020”
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -139,13 +164,13 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: football
         description: ''
         percent: 100
-        icon: cat
+        icon: soccer
       - name: Photography
         description: ''
-        percent: 80
+        percent: 100
         icon: camera
 
 languages:
@@ -154,7 +179,9 @@ languages:
   - name: Bangla
     percent: 100
   - name: Spanish
-    percent: 25
+    percent: 20
+  - name: Japanese
+    percent: 20
 
 # Awards.
 #   Add/remove as many awards below as you like.
