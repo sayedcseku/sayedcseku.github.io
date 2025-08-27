@@ -31,7 +31,7 @@ hugoblox:
 
 links:
   - type: pdf
-    url: https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12018
+    url: https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/ipr2.12018
 
 
 
