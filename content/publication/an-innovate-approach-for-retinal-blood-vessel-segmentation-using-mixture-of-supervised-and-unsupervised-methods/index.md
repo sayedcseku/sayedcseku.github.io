@@ -30,4 +30,25 @@ hugoblox:
 links:
   - type: pdf
     url: https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/ipr2.12018
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Image credit: [**Wiley**](https://ietresearch.onlinelibrary.wiley.com/cms/asset/af3ed480-dc75-4564-b0c1-5f586fd4b49d/ipr212018-fig-0010-m.jpg)'
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: ""
 ---
