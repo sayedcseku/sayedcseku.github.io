@@ -2,7 +2,7 @@
 title: "Proactive Maritime Threat Prediction: Vessel Intent Classification with LSTMs and Transformers Using a Sliding Window Approach"
 authors:
 - Ayesh Meepaganithage
-- \textbf{Md Abu Sayed}
+- Md Abu Sayed
 - Monica Nicolescu
 - Mircea Nicolescu
 date: 2025-01-01

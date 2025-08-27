@@ -1,7 +1,7 @@
 ---
 title: "Feature-Aware Deep Learning for Maritime Intent Recognition"
 authors:
-- \textbf{Md Abu Sayed}
+- Md Abu Sayed
 - Md Azizul Hakim
 - Ayesh Meepaganithage
 - Monica Nicolescu

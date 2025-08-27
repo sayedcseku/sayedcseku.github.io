@@ -2,7 +2,7 @@
 title: "Keep Sailing: An Investigation of Effective Navigation Controls and Subconscious Learning in Simulated Maritime Environment"
 authors:
 - Mayamin Hamid Raha
-- \textbf{Md Abu Sayed}
+- Md Abu Sayed
 - Sergiu Dascalu
 - Monica Nicolescu
 - Mircea Nicolescu

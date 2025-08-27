@@ -2,7 +2,7 @@
 title: "RAM: Resource Allocation for Multi-agent Maritime Environment"
 authors:
 - Mayamin Hamid Raha
-- \textbf{Md Abu Sayed}
+- Md Abu Sayed
 - Monica Nicolescu
 - Mircea Nicolescu
 - Sushil Louis
