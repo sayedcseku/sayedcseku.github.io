@@ -20,10 +20,14 @@ abstract: >
   Segmentation of retinal blood vessels is a very important diagnostic procedure in ophthalmology. Segmenting blood vessels in the presence of pathological lesions is a major challenge. In this paper, an innovative approach to segment the retinal blood vessel in the presence of pathology is proposed. The method combines both supervised and unsupervised approaches in the retinal imaging context. Two innovative descriptors named local Haar pattern and modified speeded up robust features are also proposed. Experiments are conducted on three publicly available datasets named: DRIVE, STARE and CHASE DB1, and the proposed method has been compared against the state-of-the-art methods. The proposed method is found about 1% more accurate than the best performing supervised method and 2% more accurate than the state-of-the-art Nguyen et al.’s method.
 
  # Summary. An optional shortened abstract.
-summary: We propose a pathology-robust method that combines supervised and unsupervised techniques with two new descriptors—local Haar pattern and a modified SURF. On DRIVE, STARE, and CHASE DB1, it outperforms state-of-the-art baselines, ~1% over the best supervised method and ~2% over Nguyen et al.’s.
+summary: We propose a pathology-robust blood veesel segmentation method that combines supervised and unsupervised techniques with two new descriptors—local Haar pattern and a modified SURF. On DRIVE, STARE, and CHASE DB1, it outperforms state-of-the-art baselines, ~1% over the best supervised method and ~2% over Nguyen et al.’s.
 
 tags:
-- Source Themes
+- Image Segmentation
+- Medical Image Analysis
+- Semi-supervised Learning
+- Retinal Image
+
 featured: true
 
 hugoblox:
