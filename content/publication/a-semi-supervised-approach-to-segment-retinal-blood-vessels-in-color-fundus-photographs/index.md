@@ -7,6 +7,6 @@ authors:
 - Tanmai K Ghosh
 - Yogesan Kanagasingam
 date: 2019-01-01
-publication_types: ["1"]
+publication_types: ['paper-conference']
 publication: "Conference on Artificial Intelligence in Medicine in Europe"
 ---

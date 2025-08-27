@@ -1,7 +1,7 @@
 ---
 title: "NavySim 2.0: Enhanced Multi-Vessel Simulation and Analysis Engine for Advanced Naval Research"
 authors:
-- \textbf{Md Abu Sayed}
+- Md Abu Sayed
 - Korben DiArchangel
 - Parvaneh Aliniya
 - Casey Brenner
@@ -9,7 +9,7 @@ authors:
 - Monica Nicolescu
 - Mircea Nicolescu
 - Sushil Louis
-date: 2025-01-01
-publication_types: ["2"]
+date: 2025-12-01
+publication_types: ["article-journal"]
 publication: "IEEE Transactions on Games"
 ---

@@ -7,6 +7,6 @@ authors:
 - \textbf{Md Abu Sayed}
 - Yogesan Kanagasingam
 date: 2019-01-01
-publication_types: ["1"]
+publication_types: ['paper-conference']
 publication: "Iberian Conference on Pattern Recognition and Image Analysis"
 ---
