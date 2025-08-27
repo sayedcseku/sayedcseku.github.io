@@ -32,20 +32,7 @@ hugoblox:
 links:
   - type: pdf
     url: https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12018
-  - type: code
-    url: ""
-  - type: dataset
-    url: ""
-  - type: poster
-    url: ""
-  - type: project
-    url: ""
-  - type: slides
-    url: ""
-  - type: source
-    url: ""
-  - type: video
-    url: ""
+
 
 
 # Associated Projects (optional).
