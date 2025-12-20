@@ -128,6 +128,18 @@ work:
       - CS 477/677: Analysis of Algorithms [Fall 2021, Spring 2022, Fall 2024, Spring 2025]
       - Helping students with lessons; Grading and Assisting with homework, exams, and/or written assignments
 
+  - position: AI Software Engineer Intern
+    company_name: Pluto in Aquarius LLC
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-08-01
+    date_end: 2026-05-31
+    summary: |
+      Responsibilities include:
+      - Building ICONIQ (AI-driven experience recommendations) and AIJINTSEE (marketing automation) with FastAPI, PostgreSQL/pgvector, and integrated LLM/DL pipelines.
+      - Leading and mentoring a 4-student team (2 M.S., 2 B.S.) on architecture, coding standards, and experiment design.
+      - Standing up ML orchestration, data flows, and inference endpoints for productionization.
+
   - position: Lecturer at Department of Computer Science & Engineering
     company_name: The Millennium University
     company_url: ''

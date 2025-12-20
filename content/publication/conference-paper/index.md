@@ -1,92 +1,47 @@
 ---
-title: 'An example conference paper'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+title: "Feature-aware Deep Learning for Maritime Intent Recognition"
 authors:
-  - admin
-  - Robert Ford
+  - Md Abu Sayed
+  - Md Azizul Hakim
+  - Ayesh Meepaganithage
+  - Monica Nicolescu
+  - Mircea Nicolescu
+date: "2025-01-01"
+publishDate: "2025-01-01"
+publication_types: ["paper-conference"]
+publication: "IEEE International Conference on Future Machine Learning and Data Science (FMLDS 2025)"
+publication_short: "FMLDS 2025"
 
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+abstract: >
+  Forthcoming paper introducing feature-aware deep learning models for early maritime intent recognition under sparse, noisy vessel tracks.
+  Incorporates bearing-rate, CPA/TCPA, and trajectory derivatives to improve early classification for naval decision support.
 
-date: '2010-07-01T00:00:00Z'
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2010-01-01T00:00:00Z'
-
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
-
-# Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: "Forthcoming FMLDS 2025 paper on feature-aware deep learning for maritime intent recognition."
 
 tags:
-  - Large Language Models
+  - Maritime Autonomy
+  - Intent Recognition
+  - Deep Learning
+  - Sequence Modeling
 
-# Display this page in the Featured widget?
 featured: false
 
-# Standard identifiers for auto-linking
-hugoblox:
-  ids:
-    doi: 10.5555/123456
-
-# Custom links
 links:
   - type: pdf
     url: ""
-  - type: code
-    url: https://github.com/HugoBlox/hugo-blox-builder
   - type: dataset
-    url: https://github.com/HugoBlox/hugo-blox-builder
+    url: ""
+  - type: code
+    url: ""
   - type: slides
-    url: https://www.slideshare.net/
-  - type: source
-    url: https://github.com/HugoBlox/hugo-blox-builder
-  - type: video
-    url: https://youtube.com
+    url: ""
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+  caption: ""
+  focal_point: ""
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
+projects: []
 slides: ""
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the paper abstract or supplementary notes here once available. You can include figures, code snippets, or datasets when ready.
