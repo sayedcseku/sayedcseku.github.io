@@ -1,15 +1,13 @@
 ---
-title: PyTorch
-date: 2023-10-26
-links:
-  - type: site
-    url: https://github.com/pytorch/pytorch
+title: "NavySim: Multi-vessel Simulation Engine"
+date: 2024-08-01
+summary: Unity-based naval simulator with multi-agent scenarios, threat/vulnerability heatmaps, and ML-driven intent recognition for maritime research.
+links: []
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Simulation
+  - Maritime AI
+  - Unity
+  - Intent Recognition
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
-
-<!--more-->
+Built a physics-consistent scenario generation pipeline for naval agents, integrated CPA/TCPA-based action and vulnerability heatmaps, and wired HMM/LSTM intent recognizers for real-time threat-aware decision support in maritime operations.

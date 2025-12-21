@@ -1,15 +1,13 @@
 ---
-title: Pandas
-date: 2023-10-26
-links:
-  - type: site
-    url: https://github.com/pandas-dev/pandas
+title: "ThreatMap: Maritime Situational Awareness"
+date: 2024-05-01
+summary: Heatmap framework that fuses proximity and kinematic cues to visualize evolving threats in multi-vessel environments.
+links: []
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Maritime AI
+  - Visualization
+  - Python
+  - Unity
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
-
-<!--more-->
+Developed mathematical and visual models to estimate dynamic threat levels for naval agents, integrating CPA/TCPA features and rendering real-time heatmaps to support on-water decision-making and simulation-driven analysis.

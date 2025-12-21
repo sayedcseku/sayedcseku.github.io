@@ -1,15 +1,13 @@
 ---
-title: scikit-learn
-date: 2023-10-26
-links:
-  - type: site
-    url: https://github.com/scikit-learn/scikit-learn
+title: "Generative Sequence Modeling for Maritime Behaviors"
+date: 2025-01-15
+summary: Multi-task generative models (CVAE, TimeGAN, ACGAN) for forecasting vessel motion and reconstructing sparse maritime sensor data.
+links: []
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Generative Models
+  - Sequence Modeling
+  - Maritime AI
+  - Deep Learning
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
-
-<!--more-->
+Built and compared CVAE, TimeGAN, and adversarial sequence models to simulate vessel trajectories, fill missing observations, and jointly predict future motion and latent intent for maritime autonomy scenarios.
