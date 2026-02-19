@@ -6,7 +6,9 @@ type: docs
 math: false
 tags:
   - Teaching
+  - TA
   - Algorithms
+icon: calculator
 image:
   caption: ""
 ---

@@ -6,8 +6,10 @@ type: docs
 math: false
 tags:
   - Teaching
+  - Lecturer
   - Algorithms
   - Data Structures
+icon: square-3-stack-3d
 image:
   caption: ""
 ---

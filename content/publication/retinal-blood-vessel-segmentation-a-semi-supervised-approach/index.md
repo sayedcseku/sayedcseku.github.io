@@ -9,4 +9,5 @@ authors:
 date: 2019-01-01
 publication_types: ['paper-conference']
 publication: "Iberian Conference on Pattern Recognition and Image Analysis"
+projects: [retinal-lhp]
 ---

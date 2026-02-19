@@ -6,8 +6,10 @@ type: docs
 math: false
 tags:
   - Teaching
+  - Lecturer
   - Programming
   - C/C++
+icon: code-bracket
 image:
   caption: ""
 ---

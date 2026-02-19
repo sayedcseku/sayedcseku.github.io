@@ -6,7 +6,9 @@ type: docs
 math: false
 tags:
   - Teaching
+  - TA
   - Machine Learning
+icon: chart-bar
 image:
   caption: ""
 ---

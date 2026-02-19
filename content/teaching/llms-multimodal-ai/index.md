@@ -6,9 +6,11 @@ type: docs
 math: false
 tags:
   - Teaching
+  - TA
   - Machine Learning
   - LLMs
   - Multimodal AI
+icon: sparkles
 image:
   caption: ""
 ---

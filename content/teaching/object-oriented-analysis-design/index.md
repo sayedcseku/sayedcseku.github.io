@@ -6,9 +6,11 @@ type: docs
 math: false
 tags:
   - Teaching
+  - Lecturer
   - OOP
   - UML
   - Design Patterns
+icon: cube
 image:
   caption: ""
 ---

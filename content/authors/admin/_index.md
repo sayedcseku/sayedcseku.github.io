@@ -223,7 +223,28 @@ awards:
     awarder: datacamp
     icon: datacamp
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code.
+  - title: Deep Learning Specialization
+    url: https://www.coursera.org/specializations/deep-learning
+    date: '2020-10-01'
+    awarder: Coursera / DeepLearning.AI
+    icon: coursera
+    summary: |
+      Comprehensive specialization covering Neural Networks, Improving DNNs, Structuring ML Projects, Convolutional Networks, and Sequence Models. Core foundation for computer vision and NLP research.
+  - title: Convolutional Neural Networks
+    url: https://www.coursera.org/learn/convolutional-neural-networks
+    date: '2020-08-01'
+    awarder: Coursera
+    icon: coursera
+    summary: |
+      Architectures for image recognition, object detection, and neural style transfer. Applied to medical image analysis and computer vision projects.
+  - title: Build Basic Generative Adversarial Networks (GANs)
+    url: https://www.coursera.org/learn/build-basic-gans
+    date: '2021-04-01'
+    awarder: DeepLearning.AI
+    icon: coursera
+    summary: |
+      Built and trained GANs for image generation. Foundation for generative sequence modeling work in maritime trajectory simulation.
 ---
 
 ## About Me

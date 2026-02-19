@@ -6,8 +6,10 @@ type: docs
 math: false
 tags:
   - Teaching
+  - Lecturer
   - Software Engineering
   - Design Patterns
+icon: wrench-screwdriver
 image:
   caption: ""
 ---

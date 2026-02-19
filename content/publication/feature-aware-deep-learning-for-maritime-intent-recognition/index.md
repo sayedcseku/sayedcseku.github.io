@@ -9,4 +9,5 @@ authors:
 date: 2025-01-01
 publication_types: ['paper-conference']
 publication: "IEEE International Conference on Future Machine Learning and Data Science (FMLDS 2025)"
+projects: [intent-recognition-maritime]
 ---

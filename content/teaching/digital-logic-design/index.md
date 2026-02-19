@@ -6,8 +6,10 @@ type: docs
 math: false
 tags:
   - Teaching
+  - Lecturer
   - Digital Logic
   - Hardware
+icon: cpu-chip
 image:
   caption: ""
 ---

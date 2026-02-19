@@ -6,8 +6,10 @@ type: docs
 math: false
 tags:
   - Teaching
+  - Lecturer
   - Database
   - SQL
+icon: circle-stack
 image:
   caption: ""
 ---

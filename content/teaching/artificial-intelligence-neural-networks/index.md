@@ -6,8 +6,10 @@ type: docs
 math: false
 tags:
   - Teaching
+  - Lecturer
   - AI
   - Neural Networks
+icon: brain
 image:
   caption: ""
 ---
