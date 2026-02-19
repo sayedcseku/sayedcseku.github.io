@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: Research and development projects spanning maritime AI, medical imaging, simulation, intent recognition, and human–robot collaboration.
       filters:
         folders:
           - project

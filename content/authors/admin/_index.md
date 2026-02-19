@@ -50,12 +50,12 @@ profiles:
     url: https://orcid.org/0009-0005-8170-920X
 
 interests:
-  - Generative AI
-  - Intent Recognition
+  - Intent Recognition in Multi-agent Systems
+  - Temporal Deep Learning & Generative Modeling
   - Simulation and AI
-  - Robotic Vision
+  - Human–Robot Collaboration
   - Medical Image Analysis
-  - Temporal Data Analysis
+  - Computer Vision
   
 
 education:
@@ -64,7 +64,7 @@ education:
     date_start: 2021-08-01
     date_end: 2026-12-31
     summary: |
-      Dissertation on _Deep Generative and Explainable Learning Frameworks for Intent Recognition in Multi-Agent Systems_. Supervised by [Prof. Monica Nicolescu](https://www.cse.unr.edu/~monica/) and cosupervised [Prof. Mircea Nicolescu] (https://www.cse.unr.edu/~mircea/). Presented 2 papers at IEEE CASE, 2 forthcoming and 1 under-review conferences/journals.
+      Dissertation on _Generative & Explainable Learning for Intent Recognition in Multi-Agent Systems_. Supervised by [Prof. Monica Nicolescu](https://www.cse.unr.edu/~monica/) and cosupervised by [Prof. Mircea Nicolescu](https://www.cse.unr.edu/~mircea/). Presented 2 papers at IEEE CASE, 2 forthcoming and 1 under-review conferences/journals.
 
       Courses included:
       - Autonomous Mobile Manipulation
@@ -110,11 +110,10 @@ work:
     date_start: 2021-08-01
     date_end: ''
     summary: |
-      Responsibilities include:
-      - Created NavySim, a Unity-based naval simulation engine for advanced naval research, enabling analysis and modeling of multiple vessels in complex scenarios.
-      - Designed and implemented a real-time framework to enhance situational awareness and threat prediction for naval agents using machine learning algorithms.
-      - Designed realistic agent models that include systems for sensing and defense and their structured coverage areas.
-      - Utilized HMMs, LSTMs, Threatmap, and other intent recognition algorithms to provide real-time prediction of vessel intent in the presence of coordinated groups/swarms of adversarial ships/boats
+      Office of Naval Research (ONR) Project: Graduate Researcher on maritime autonomy (2021–25), developing early intent recognition and threat-aware decision support in naval contexts. On-water Deployment Collaborator with Huntington Ingalls Industries on autonomous naval systems.
+      - Developing ML models for real-time prediction of vessel behavior under sparse, noisy, and adversarial conditions.
+      - Collaborating on simulation-driven experimentation, dataset design, and integration of ML/DL models into maritime situational awareness frameworks.
+      - Contributed to pending collaborative external grant proposal (ONR and ONR Global) with my PI and Flinders University, drafting technical sections on temporal intent modeling and simulation-supported evaluation.
 
   - position: Graduate Teaching Assistant 
     company_name: University of Nevada, Reno 
@@ -123,10 +122,9 @@ work:
     date_start: 2021-08-01
     date_end: ''
     summary: |
-      Responsibilities include:
-      - CS 422/622: Introduction to Machine Learning [Fall 2025]
-      - CS 477/677: Analysis of Algorithms [Fall 2021, Spring 2022, Fall 2024, Spring 2025]
-      - Helping students with lessons; Grading and Assisting with homework, exams, and/or written assignments
+      Assisted instruction in CS 477/677: Analysis of Algorithms, CS 422/622: Introduction to Machine Learning, and CS 491/691: LLMs and Multimodal AI, supporting student learning in algorithmic reasoning and applied ML.
+      - Led review sessions and held weekly office hours for conceptual guidance, problem-solving support, and individualized clarification.
+      - Designed and graded homework, exams, and programming tasks, delivering constructive feedback.
 
   - position: AI Software Engineer Intern
     company_name: Pluto in Aquarius LLC
@@ -147,11 +145,10 @@ work:
     date_start: 2019-06-15
     date_end: 2021-07-31
     summary: |
-      Responsibilities include:
-      - Instructed courses: Structured Programming, Data Structure, Artificial Intelligence & Neural Networks, etc.
-      - Lecture planning, taught and instructed courses, assessing students, holding office hours, invigilating examinations, supervising application development projects, etc.
-      - Course Coordinator of the Department from December 2019 to July 2021
-      - Spokeperson of the Sports Teams in ``The Bangabandhu Sports Tournament 2020”
+      Undergraduate courses: Structured Programming, Data Structure, Database, Digital Logic Design, Artificial Intelligence & Neural Networks, Software Engineering, Object-Oriented Analysis and Design.
+      - Designed lecture materials, assignments, quizzes, and examinations aligned with learning outcomes.
+      - Supervised project-based learning activities focusing on design patterns, testing, and documentation.
+      - Served as Course Coordinator, contributing to course scheduling and curriculum alignment.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -162,13 +159,13 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
+      - name: AI/ML/CV Frameworks
+        description: 'PyTorch, TensorFlow, Keras, OpenCV'
+        percent: 85
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
+      - name: Systems & Agentic AI
+        description: 'FastAPI, Multimodal RAG, LangChain'
+        percent: 70
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -231,8 +228,8 @@ awards:
 
 ## About Me
 
-Welcome to the personal website of Md Abu Sayed, a passionate Ph.D. student in Computer Science and Engineering at the University of Nevada, Reno (UNR). His research focuses on the cutting-edge domain of Robotic Vision, with a particular emphasis on activity and intent recognition in a group of agents operating in Naval Space. This innovative work is a collaborative effort between the Robotics Research Lab and Computer Vision Lab at UNR.
+Welcome to the personal website of Md Abu Sayed, a Ph.D. candidate in Computer Science and Engineering at the University of Nevada, Reno (UNR). His research develops machine learning systems for predictive maritime autonomy, intent recognition in multi-agent systems, and cross-domain AI—spanning simulation (NavySim), threat visualization (ThreatMap), temporal deep learning, generative sequence modeling, and human–robot collaboration. His work is funded by the Office of Naval Research and collaborators include Huntington Ingalls Industries and Flinders University.
 
-Before embarking on his Ph.D. journey, Sayed was a Lecturer in the Department of Computer Science and Engineering at The Millennium University, Bangladesh. He earned his Bachelor’s degree in Computer Science and Engineering from Khulna University, Bangladesh, in January 2019. His undergraduate thesis explored an automated method to segment retinal blood vessels from color fundus photographs, showcasing his early dedication to impactful research.
+Before his Ph.D., Sayed was a Lecturer at The Millennium University, Bangladesh, teaching core and advanced computing courses. He earned his B.S. from Khulna University (thesis on retinal vessel segmentation) and M.S. from UNR (thesis on ThreatMap for naval security awareness).
 
-Beyond academia, Sayed is deeply committed to community engagement has been steadfast throughout his academic journey. As Vice President of the International Students Club at UNR, he organized significant events like the Night of All Nations, showcasing the diversity of 32 countries. As Treasurer of the Bangladeshi Student Association, he managed funds and organized cultural events. Noteably, as a Council Member of the Graduate Student Association, he represented the College of Engineering and contribute to committees, ensuring the needs and interests of graduate students are met.
+Beyond academia, he serves as Council Member of the Graduate Student Association (Chair, Awards Committee), was Vice President of the International Students Club (organized Night of All Nations with 600 participants), and is Co-Lead of Google Developer Group Campus (co-organized DevFest Reno).
