@@ -1,0 +1,88 @@
+/* Custom styles for Md Abu Sayed - Academic Portfolio */
+
+/* Smooth scrolling for anchor links */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Section spacing and rhythm */
+section {
+  scroll-margin-top: 5rem;
+}
+
+/* Subtle fade-in for content as it enters viewport */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(1rem);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Card hover: lift and shadow */
+.prose a, .group:hover {
+  transition: color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* Publication and project cards */
+article a:hover,
+[data-view="article-grid"] article:hover {
+  transform: translateY(-2px);
+}
+
+/* Typography: improved readability for research text */
+.prose p {
+  line-height: 1.75;
+}
+
+.prose strong {
+  font-weight: 600;
+  color: inherit;
+}
+
+/* CTA buttons: subtle hover */
+a[href*="CV.pdf"],
+a[href*="Research%20Statement"],
+button {
+  transition: opacity 0.2s ease, transform 0.15s ease;
+}
+
+a[href*="CV.pdf"]:hover,
+a[href*="Research%20Statement"]:hover {
+  opacity: 0.9;
+}
+
+/* Section titles: clearer hierarchy */
+h2 {
+  letter-spacing: -0.02em;
+  font-weight: 700;
+}
+
+/* Links in content: accent color on hover */
+.prose a:not([class*="btn"]):hover {
+  text-decoration-thickness: 2px;
+}
+
+/* Navbar: smooth background on scroll (if fixed) */
+header {
+  backdrop-filter: blur(8px);
+}
+
+/* Footer: subtle top border */
+footer {
+  border-top: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.dark footer {
+  border-top-color: rgba(255, 255, 255, 0.08);
+}
+
+/* Responsive: comfortable reading on large screens */
+@media (min-width: 1024px) {
+  .prose {
+    max-width: 75ch;
+  }
+}

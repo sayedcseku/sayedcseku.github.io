@@ -6,7 +6,24 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
+  color: indigo
+
+# Theme & Typography (Hugo Blox)
+hugoblox:
+  theme:
+    pack: default
+    mode: system
+    colors:
+      primary: indigo
+      secondary: sky
+      neutral: slate
+  typography:
+    font: sans
+    size: md
+  layout:
+    radius: lg
+    spacing: spacious
+    avatar_shape: circle
 
 # SEO
 marketing:
@@ -14,7 +31,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+    description: 'Md Abu Sayed — Ph.D. Candidate in Computer Science at UNR. Research in maritime intent recognition, simulation-driven AI, and anticipatory intelligent systems.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
