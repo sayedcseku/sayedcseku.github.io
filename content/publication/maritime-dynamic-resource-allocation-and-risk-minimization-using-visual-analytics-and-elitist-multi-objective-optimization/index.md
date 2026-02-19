@@ -9,5 +9,8 @@ authors:
 date: 2023-01-01
 publication_types: ['paper-conference']
 publication: "Proceedings of the 20th International Conference on Informatics in Control, Automation and Robotics - Volume 1: ICINCO"
-doi: "10.5220/0012190100003543"
+
+hugoblox:
+  ids:
+    doi: "10.5220/0012190100003543"
 ---
