@@ -85,9 +85,25 @@ footer {
   .prose {
     max-width: 75ch;
   }
-  /* Let the Research section span wider so the card grid uses the space */
-  .prose:has(.research-grid) {
+}
+
+/* Widen the My Research section to match the Projects/Publications grids.
+   The section is wrapped in two nested max-w-prose containers (~65ch);
+   override both (scoped to #section-markdown) so the card grid uses the space. */
+@media (min-width: 768px) {
+  #section-markdown .max-w-prose {
     max-width: 64rem;
+  }
+  /* keep the intro & closing text comfortably readable and centered
+     while the card grid spans the full widened width */
+  #section-markdown .prose > p {
+    max-width: 46rem;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+  #section-markdown .research-grid {
+    max-width: none;
   }
 }
 
