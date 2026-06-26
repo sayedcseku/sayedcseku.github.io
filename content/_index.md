@@ -42,7 +42,7 @@ sections:
 
         <div class="research-grid not-prose">
         <div class="research-card"><span class="ico">🫀</span><h3>Cardiovascular AI <span class="tag">· Current</span></h3><p>At the University of Miami's Center for Digital Cardiovascular Innovations, I apply AI and computational modeling—including generative and explainable deep learning—to cardiovascular imaging and clinical decision support.</p></div>
-        <div class="research-card"><span class="ico">🛰️</span><h3>Predictive Maritime Autonomy <span class="tag tag-muted">· PhD</span></h3><p>ONR-funded early intent recognition: NavySim, ThreatMap, and temporal models (HMMs, LSTMs, Transformers) reaching ~97% accuracy across seven maritime behaviors, plus generative trajectory prediction.</p></div>
+        <div class="research-card"><span class="ico">🛰️</span><h3>Naval Intent Recognition <span class="tag tag-muted">· PhD</span></h3><p>My ONR-funded dissertation: the NavySim simulator, explainable feature attribution (CPFI/TFIS), and MTITP—a multi-task GAN that jointly classifies vessel intent, forecasts future intent, and generates intent-conditioned trajectories.</p></div>
         <div class="research-card"><span class="ico">🧠</span><h3>Medical &amp; Visual AI</h3><p>Semi-supervised retinal vessel segmentation and multi-view Graph Convolutional Networks for mammography—building expertise in multimodal fusion and modeling under data scarcity.</p></div>
         </div>
 

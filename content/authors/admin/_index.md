@@ -63,12 +63,15 @@ education:
     date_start: 2021-08-01
     date_end: 2026-05-15
     summary: |
-      Degree awarded May 2026. Dissertation on _Generative & Explainable Learning for Intent Recognition in Multi-Agent Systems_. Supervised by [Prof. Monica Nicolescu](https://www.cse.unr.edu/~monica/) and cosupervised by [Prof. Mircea Nicolescu](https://www.cse.unr.edu/~mircea/). Presented 2 papers at IEEE CASE, with additional publications across IEEE CoG, IEEE Transactions on Games, and other venues.
+      Defended May 7, 2026; degree awarded May 2026. Dissertation on _Deep Generative and Explainable Learning Frameworks for Intent Recognition in Naval Domain_, advised by [Prof. Monica Nicolescu](https://www.cse.unr.edu/~monica/) and co-advised by [Prof. Mircea Nicolescu](https://www.cse.unr.edu/~mircea/). The work contributes the **NavySim** multi-agent maritime simulator, **CPFI/TFIS** explainable feature attribution, deep intent-classification models, classical Bayesian (Kalman) trajectory baselines, and **MTITP**—a multi-task GAN for joint intent recognition, future-intent prediction, and intent-conditioned trajectory generation. Presented 2 papers at IEEE CASE, with additional publications across IEEE CoG, IEEE Transactions on Games, and other venues.
 
       Courses included:
       - Autonomous Mobile Manipulation
       - Robotics for Humaity
       - Stochastic Deep Learning
+    button:
+      text: 'Read Ph.D. Dissertation'
+      url: 'https://sayedcseku.github.io/uploads/PhD-Dissertation-Sayed.pdf'
     
 
   - area: M.Sc. in Computer Science & Engineering
