@@ -9,7 +9,7 @@ authors:
 - Monica Nicolescu
 - Mircea Nicolescu
 - Sushil Louis
-date: 2025-12-01
+date: 2026-06-24
 publication_types: ["article-journal"]
 publication: "IEEE Transactions on Games"
 projects: [pytorch]

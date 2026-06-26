@@ -36,13 +36,15 @@ sections:
   - block: markdown
     content:
       title: '📚 My Research'
-      subtitle: 'Predictive AI · Intent Recognition · Maritime Autonomy'
+      subtitle: 'Cardiovascular AI · Predictive Modeling · Simulation · Intent Recognition'
       text: |-
         My research develops machine learning systems that interpret complex patterns, anticipate future states, and support decision-making in safety-critical environments. I unify deep temporal learning with cross-domain intelligence across autonomous agents, simulation-based modeling, human–robot collaboration, and medical and visual AI.
 
-        I began in biomedical image analysis—developing semi-supervised vessel segmentation for retinal images and multi-view Graph Convolutional Networks for mammography—which established my expertise in multimodal fusion and modeling under data scarcity. During my Ph.D. (funded by the Office of Naval Research), I focus on predictive maritime autonomy: building **NavySim** (a Unity-based multi-vessel simulator), **ThreatMap** (interpretable threat visualization), temporal intent models (HMMs, LSTMs, Transformers) achieving ~97% accuracy on seven maritime behaviors, and generative models (CVAE, TimeGAN, LSTM-GAN) for missing-data reconstruction and future-trajectory prediction. I also explore intent recognition in human–robot collaboration, applying embodied perspective-taking on robotic platforms.
+        As a **Postdoctoral Research Scholar** at the University of Miami's **Center for Digital Cardiovascular Innovations**, I now apply artificial intelligence, computational simulation, and extended reality to advance cardiovascular care.
 
-        My goal is to advance anticipatory AI systems that understand their environment, anticipate future states, and act with reliability, transparency, and safety—bridging maritime security, healthcare, and robotics.
+        I began in biomedical image analysis—developing semi-supervised vessel segmentation for retinal images and multi-view Graph Convolutional Networks for mammography—which established my expertise in multimodal fusion and modeling under data scarcity. During my Ph.D. (funded by the Office of Naval Research), I focused on predictive maritime autonomy: building **NavySim** (a Unity-based multi-vessel simulator), **ThreatMap** (interpretable threat visualization), temporal intent models (HMMs, LSTMs, Transformers) achieving ~97% accuracy on seven maritime behaviors, and generative models (CVAE, TimeGAN, LSTM-GAN) for missing-data reconstruction and future-trajectory prediction. I also explored intent recognition in human–robot collaboration, applying embodied perspective-taking on robotic platforms.
+
+        My goal is to advance anticipatory AI systems that understand their environment, anticipate future states, and act with reliability, transparency, and safety—now extending these methods from maritime security and robotics into cardiovascular medicine and digital health.
 
         [Download Research Statement (PDF)](/Files/Research%20Statement.pdf) · Please reach out to collaborate 😃
     design:

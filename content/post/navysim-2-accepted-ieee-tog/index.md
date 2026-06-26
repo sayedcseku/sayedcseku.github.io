@@ -1,7 +1,7 @@
 ---
 title: "NavySim 2.0 accepted for IEEE Transactions on Games"
 summary: Our enhanced multi-vessel simulation engine has been accepted for publication in IEEE ToG.
-date: 2025-02-01
+date: 2026-06-24
 authors:
   - admin
 tags:

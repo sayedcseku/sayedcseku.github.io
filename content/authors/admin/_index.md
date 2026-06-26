@@ -23,12 +23,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Candidate | Gen AI | Naval Security | Simulation | Robotic Vision
+role: Postdoctoral Research Scholar | Cardiovascular AI · Generative AI · Medical Imaging · Simulation
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Nevada, Reno
-    url: https://unr.edu/
+  - name: University of Miami, Miller School of Medicine
+    url: https://med.miami.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -50,21 +50,21 @@ profiles:
     url: https://orcid.org/0009-0005-8170-920X
 
 interests:
-  - Intent Recognition in Multi-agent Systems
+  - Cardiovascular AI & Digital Health
+  - Computational Simulation & Extended Reality (XR)
   - Temporal Deep Learning & Generative Modeling
-  - Simulation and AI
+  - Intent Recognition in Multi-agent Systems
+  - Medical Image Analysis & Computer Vision
   - Human–Robot Collaboration
-  - Medical Image Analysis
-  - Computer Vision
   
 
 education:
   - area: Ph.D. in Computer Science & Engineering
     institution: University of Nevada, Reno
     date_start: 2021-08-01
-    date_end: 2026-12-31
+    date_end: 2026-05-15
     summary: |
-      Dissertation on _Generative & Explainable Learning for Intent Recognition in Multi-Agent Systems_. Supervised by [Prof. Monica Nicolescu](https://www.cse.unr.edu/~monica/) and cosupervised by [Prof. Mircea Nicolescu](https://www.cse.unr.edu/~mircea/). Presented 2 papers at IEEE CASE, 2 forthcoming and 1 under-review conferences/journals.
+      Degree awarded May 2026. Dissertation on _Generative & Explainable Learning for Intent Recognition in Multi-Agent Systems_. Supervised by [Prof. Monica Nicolescu](https://www.cse.unr.edu/~monica/) and cosupervised by [Prof. Mircea Nicolescu](https://www.cse.unr.edu/~mircea/). Presented 2 papers at IEEE CASE, with additional publications across IEEE CoG, IEEE Transactions on Games, and other venues.
 
       Courses included:
       - Autonomous Mobile Manipulation
@@ -103,12 +103,23 @@ education:
       url: 'https://sayedcseku.github.io/uploads/Thesis-Retinal-Vessel-Segmentation.pdf'
       
 work:
+  - position: Postdoctoral Research Scholar
+    company_name: University of Miami, Miller School of Medicine
+    company_url: 'https://med.miami.edu/'
+    company_logo: ''
+    date_start: 2026-06-08
+    date_end: ''
+    summary: |
+      Postdoctoral Research Scholar at the **Center for Digital Cardiovascular Innovations**, a multidisciplinary clinical and research hub within the University of Miami Miller School of Medicine / UHealth System, directed by **Dr. Yiannis S. Chatzizisis** (Chief, Division of Cardiovascular Medicine).
+      - Advancing heart care through artificial intelligence, computational simulation, and extended reality (AISER).
+      - Extending generative and explainable deep learning to cardiovascular imaging, modeling, and clinical decision support.
+
   - position: Graduate Research Assistant 
     company_name: University of Nevada, Reno 
     company_url: ''
     company_logo: ''
     date_start: 2021-08-01
-    date_end: ''
+    date_end: 2026-05-15
     summary: |
       Office of Naval Research (ONR) Project: Graduate Researcher on maritime autonomy (2021–25), developing early intent recognition and threat-aware decision support in naval contexts. On-water Deployment Collaborator with Huntington Ingalls Industries on autonomous naval systems.
       - Developing ML models for real-time prediction of vessel behavior under sparse, noisy, and adversarial conditions.
@@ -120,7 +131,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2021-08-01
-    date_end: ''
+    date_end: 2026-05-15
     summary: |
       Assisted instruction in CS 477/677: Analysis of Algorithms, CS 422/622: Introduction to Machine Learning, and CS 491/691: LLMs and Multimodal AI, supporting student learning in algorithmic reasoning and applied ML.
       - Led review sessions and held weekly office hours for conceptual guidance, problem-solving support, and individualized clarification.
@@ -249,7 +260,7 @@ awards:
 
 ## About Me
 
-Welcome to the personal website of Md Abu Sayed, a Ph.D. candidate in Computer Science and Engineering at the University of Nevada, Reno (UNR). His research develops machine learning systems for predictive maritime autonomy, intent recognition in multi-agent systems, and cross-domain AI—spanning simulation (NavySim), threat visualization (ThreatMap), temporal deep learning, generative sequence modeling, and human–robot collaboration. His work is funded by the Office of Naval Research and collaborators include Huntington Ingalls Industries and Flinders University.
+Welcome to the personal website of Md Abu Sayed, a Postdoctoral Research Scholar at the Center for Digital Cardiovascular Innovations, University of Miami Miller School of Medicine / UHealth System, where he advances heart care through artificial intelligence, computational simulation, and extended reality under the direction of Dr. Yiannis S. Chatzizisis. He earned his Ph.D. in Computer Science and Engineering from the University of Nevada, Reno (UNR) in May 2026. His doctoral research developed machine learning systems for predictive maritime autonomy, intent recognition in multi-agent systems, and cross-domain AI—spanning simulation (NavySim), threat visualization (ThreatMap), temporal deep learning, generative sequence modeling, and human–robot collaboration. That work was funded by the Office of Naval Research, with collaborators including Huntington Ingalls Industries and Flinders University.
 
 Before his Ph.D., Sayed was a Lecturer at The Millennium University, Bangladesh, teaching core and advanced computing courses. He earned his B.S. from Khulna University (thesis on retinal vessel segmentation) and M.S. from UNR (thesis on ThreatMap for naval security awareness).
 
