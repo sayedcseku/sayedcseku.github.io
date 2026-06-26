@@ -170,3 +170,12 @@ footer {
 .dark .research-card p {
   color: rgb(203 213 225);
 }
+
+/* Hero role: keep the tag list as a lighter, smaller second line */
+.role-tags {
+  display: block;
+  margin-top: 0.25rem;
+  font-size: 0.8rem;
+  font-weight: 400;
+  opacity: 0.9;
+}

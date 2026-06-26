@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Postdoctoral Research Scholar · Cardiovascular AI
+role: 'Postdoctoral Researcher<br><span class="role-tags">Cardiovascular AI · Generative AI · Medical Imaging · Intent Recognition</span>'
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
