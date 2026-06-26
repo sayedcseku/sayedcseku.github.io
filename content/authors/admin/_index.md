@@ -71,7 +71,7 @@ education:
       - Stochastic Deep Learning
     button:
       text: 'Read Ph.D. Dissertation'
-      url: 'https://sayedcseku.github.io/uploads/PhD-Dissertation-Sayed.pdf'
+      url: 'https://www.proquest.com/docview/3355780611'
     
 
   - area: M.Sc. in Computer Science & Engineering
