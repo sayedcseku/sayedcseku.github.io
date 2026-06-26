@@ -36,17 +36,17 @@ sections:
   - block: markdown
     content:
       title: '📚 My Research'
-      subtitle: 'Cardiovascular AI · Predictive Modeling · Simulation · Intent Recognition'
+      subtitle: 'Cardiovascular AI · Predictive Modeling · Medical Imaging · Intent Recognition'
       text: |-
-        My research develops machine learning systems that interpret complex patterns, anticipate future states, and support decision-making in safety-critical environments. I unify deep temporal learning with cross-domain intelligence across autonomous agents, simulation-based modeling, human–robot collaboration, and medical and visual AI.
+        I build machine learning systems that interpret complex patterns, anticipate future states, and support decision-making in safety-critical settings—unifying deep temporal learning, generative modeling, and cross-domain intelligence across medical, maritime, and robotic domains.
 
-        As a **Postdoctoral Research Scholar** at the University of Miami's **Center for Digital Cardiovascular Innovations**, I now apply artificial intelligence, computational simulation, and extended reality to advance cardiovascular care.
+        <div class="research-grid not-prose">
+        <div class="research-card"><span class="ico">🫀</span><h3>Cardiovascular AI <span class="tag">· Current</span></h3><p>At the University of Miami's Center for Digital Cardiovascular Innovations, I apply AI and computational modeling—including generative and explainable deep learning—to cardiovascular imaging and clinical decision support.</p></div>
+        <div class="research-card"><span class="ico">🛰️</span><h3>Predictive Maritime Autonomy <span class="tag tag-muted">· PhD</span></h3><p>ONR-funded early intent recognition: NavySim, ThreatMap, and temporal models (HMMs, LSTMs, Transformers) reaching ~97% accuracy across seven maritime behaviors, plus generative trajectory prediction.</p></div>
+        <div class="research-card"><span class="ico">🧠</span><h3>Medical &amp; Visual AI</h3><p>Semi-supervised retinal vessel segmentation and multi-view Graph Convolutional Networks for mammography—building expertise in multimodal fusion and modeling under data scarcity.</p></div>
+        </div>
 
-        I began in biomedical image analysis—developing semi-supervised vessel segmentation for retinal images and multi-view Graph Convolutional Networks for mammography—which established my expertise in multimodal fusion and modeling under data scarcity. During my Ph.D. (funded by the Office of Naval Research), I focused on predictive maritime autonomy: building **NavySim** (a Unity-based multi-vessel simulator), **ThreatMap** (interpretable threat visualization), temporal intent models (HMMs, LSTMs, Transformers) achieving ~97% accuracy on seven maritime behaviors, and generative models (CVAE, TimeGAN, LSTM-GAN) for missing-data reconstruction and future-trajectory prediction. I also explored intent recognition in human–robot collaboration, applying embodied perspective-taking on robotic platforms.
-
-        My goal is to advance anticipatory AI systems that understand their environment, anticipate future states, and act with reliability, transparency, and safety—now extending these methods from maritime security and robotics into cardiovascular medicine and digital health.
-
-        [Download Research Statement (PDF)](/Files/Research%20Statement.pdf) · Please reach out to collaborate 😃
+        My goal is anticipatory AI that understands its environment and acts with reliability, transparency, and safety—now extending these methods into cardiovascular medicine and digital health. [Download Research Statement (PDF)](/Files/Research%20Statement.pdf) · Please reach out to collaborate 😃
     design:
       columns: '1'
       css_class: bg-slate-50 dark:bg-slate-900/50

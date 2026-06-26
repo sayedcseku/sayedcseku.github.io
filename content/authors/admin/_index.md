@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Postdoctoral Research Scholar | Cardiovascular AI · Generative AI · Medical Imaging · Simulation
+role: Postdoctoral Research Scholar · Cardiovascular AI
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -51,7 +51,6 @@ profiles:
 
 interests:
   - Cardiovascular AI & Digital Health
-  - Computational Simulation & Extended Reality (XR)
   - Temporal Deep Learning & Generative Modeling
   - Intent Recognition in Multi-agent Systems
   - Medical Image Analysis & Computer Vision
@@ -111,7 +110,7 @@ work:
     date_end: ''
     summary: |
       Postdoctoral Research Scholar at the **Center for Digital Cardiovascular Innovations**, a multidisciplinary clinical and research hub within the University of Miami Miller School of Medicine / UHealth System, directed by **Dr. Yiannis S. Chatzizisis** (Chief, Division of Cardiovascular Medicine).
-      - Advancing heart care through artificial intelligence, computational simulation, and extended reality (AISER).
+      - Advancing heart care through artificial intelligence and computational modeling.
       - Extending generative and explainable deep learning to cardiovascular imaging, modeling, and clinical decision support.
 
   - position: Graduate Research Assistant 
@@ -124,7 +123,7 @@ work:
       Office of Naval Research (ONR) Project: Graduate Researcher on maritime autonomy (2021–25), developing early intent recognition and threat-aware decision support in naval contexts. On-water Deployment Collaborator with Huntington Ingalls Industries on autonomous naval systems.
       - Developing ML models for real-time prediction of vessel behavior under sparse, noisy, and adversarial conditions.
       - Collaborating on simulation-driven experimentation, dataset design, and integration of ML/DL models into maritime situational awareness frameworks.
-      - Contributed to pending collaborative external grant proposal (ONR and ONR Global) with my PI and Flinders University, drafting technical sections on temporal intent modeling and simulation-supported evaluation.
+      - Contributed to a pending collaborative external grant proposal (ONR and ONR Global) with my PI, drafting technical sections on temporal intent modeling and evaluation.
 
   - position: Graduate Teaching Assistant 
     company_name: University of Nevada, Reno 
@@ -260,7 +259,7 @@ awards:
 
 ## About Me
 
-Welcome to the personal website of Md Abu Sayed, a Postdoctoral Research Scholar at the Center for Digital Cardiovascular Innovations, University of Miami Miller School of Medicine / UHealth System, where he advances heart care through artificial intelligence, computational simulation, and extended reality under the direction of Dr. Yiannis S. Chatzizisis. He earned his Ph.D. in Computer Science and Engineering from the University of Nevada, Reno (UNR) in May 2026. His doctoral research developed machine learning systems for predictive maritime autonomy, intent recognition in multi-agent systems, and cross-domain AI—spanning simulation (NavySim), threat visualization (ThreatMap), temporal deep learning, generative sequence modeling, and human–robot collaboration. That work was funded by the Office of Naval Research, with collaborators including Huntington Ingalls Industries and Flinders University.
+Welcome to the personal website of Md Abu Sayed, a Postdoctoral Research Scholar at the Center for Digital Cardiovascular Innovations, University of Miami Miller School of Medicine / UHealth System, where he advances heart care through artificial intelligence and computational modeling under the direction of Dr. Yiannis S. Chatzizisis. He earned his Ph.D. in Computer Science and Engineering from the University of Nevada, Reno (UNR) in May 2026. His doctoral research developed machine learning systems for predictive maritime autonomy, intent recognition in multi-agent systems, and cross-domain AI—spanning simulation (NavySim), threat visualization (ThreatMap), temporal deep learning, generative sequence modeling, and human–robot collaboration. That work was funded by the Office of Naval Research, with collaborators including Huntington Ingalls Industries.
 
 Before his Ph.D., Sayed was a Lecturer at The Millennium University, Bangladesh, teaching core and advanced computing courses. He earned his B.S. from Khulna University (thesis on retinal vessel segmentation) and M.S. from UNR (thesis on ThreatMap for naval security awareness).
 
