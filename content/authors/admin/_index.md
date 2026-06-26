@@ -71,7 +71,7 @@ education:
       - Stochastic Deep Learning
     button:
       text: 'Read Ph.D. Dissertation'
-      url: 'https://www.proquest.com/docview/3355780611'
+      url: 'https://www.proquest.com/dissertations-theses/deep-generative-explainable-learning-frameworks/docview/3355780611/se-2'
     
 
   - area: M.Sc. in Computer Science & Engineering
