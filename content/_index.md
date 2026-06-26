@@ -38,7 +38,7 @@ sections:
       title: '📚 My Research'
       subtitle: 'Cardiovascular AI · Predictive Modeling · Medical Imaging · Intent Recognition'
       text: |-
-        I build machine learning systems that interpret complex patterns, anticipate future states, and support decision-making in safety-critical settings—unifying deep temporal learning, generative modeling, and cross-domain intelligence across medical, maritime, and robotic domains.
+        My work lives where two passions meet—medicine and autonomous systems—joined by one toolkit: temporal, generative, and explainable deep learning built on Transformers. From retinal and mammography imaging, to naval intent recognition, to today's cardiovascular AI, I build models that learn from complex real-world signals, anticipate what comes next, and explain why.
 
         <div class="research-grid not-prose">
         <div class="research-card"><span class="ico">🫀</span><h3>Cardiovascular AI <span class="tag">· Current</span></h3><p>At the University of Miami's Center for Digital Cardiovascular Innovations, I apply AI and computational modeling—including generative and explainable deep learning—to cardiovascular imaging and clinical decision support.</p></div>

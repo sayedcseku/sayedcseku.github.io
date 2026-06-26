@@ -51,7 +51,7 @@ profiles:
 
 interests:
   - Cardiovascular AI & Digital Health
-  - Temporal Deep Learning & Generative Modeling
+  - Temporal, Generative & Explainable Deep Learning
   - Intent Recognition in Multi-agent Systems
   - Medical Image Analysis & Computer Vision
   - Human–Robot Collaboration
@@ -262,8 +262,8 @@ awards:
 
 ## About Me
 
-Welcome to the personal website of Md Abu Sayed, a Postdoctoral Research Scholar at the Center for Digital Cardiovascular Innovations, University of Miami Miller School of Medicine / UHealth System, where he advances heart care through artificial intelligence and computational modeling under the direction of Dr. Yiannis S. Chatzizisis. He earned his Ph.D. in Computer Science and Engineering from the University of Nevada, Reno (UNR) in May 2026. His doctoral research developed machine learning systems for predictive maritime autonomy, intent recognition in multi-agent systems, and cross-domain AI—spanning simulation (NavySim), threat visualization (ThreatMap), temporal deep learning, generative sequence modeling, and human–robot collaboration. That work was funded by the Office of Naval Research, with collaborators including Huntington Ingalls Industries.
+Welcome to the personal website of Md Abu Sayed, a Postdoctoral Research Scholar at the Center for Digital Cardiovascular Innovations, University of Miami Miller School of Medicine / UHealth System. Working under Dr. Yiannis S. Chatzizisis, he applies artificial intelligence and computational modeling to advance cardiovascular care. One thread runs through all of his research: temporal, generative, and explainable deep learning—built on Transformer architectures—that learns from complex real-world signals and supports decisions where reliability and trust matter.
 
-Before his Ph.D., Sayed was a Lecturer at The Millennium University, Bangladesh, teaching core and advanced computing courses. He earned his B.S. from Khulna University (thesis on retinal vessel segmentation) and M.S. from UNR (thesis on ThreatMap for naval security awareness).
+That thread connects two worlds he loves: medicine and autonomous systems. Sayed began in medical image analysis, developing semi-supervised retinal vessel segmentation and multi-view Graph Convolutional Networks for mammography, learning to model fine structure under data scarcity. He then earned his Ph.D. in Computer Science and Engineering from the University of Nevada, Reno (May 2026), where his ONR-funded dissertation, _Deep Generative and Explainable Learning Frameworks for Intent Recognition in Naval Domain_, produced the **NavySim** maritime simulator, explainable feature attribution (**CPFI/TFIS**), and **MTITP**—a multi-task GAN that jointly recognizes vessel intent, forecasts future intent, and generates intent-conditioned trajectories. His cardiovascular research now brings these temporal and generative methods back to medicine, reuniting his clinical-imaging roots with the AI he advanced in autonomy.
 
-Beyond academia, he serves as Council Member of the Graduate Student Association (Chair, Awards Committee), was Vice President of the International Students Club (organized Night of All Nations with 600 participants), and is Co-Lead of Google Developer Group Campus (co-organized DevFest Reno).
+Before his Ph.D., Sayed was a Lecturer at The Millennium University, Bangladesh, and he earned his B.S. from Khulna University (thesis on retinal vessel segmentation) and M.S. from UNR (thesis on ThreatMap for naval security awareness). Beyond research, he has served as Council Member of the Graduate Student Association (Chair, Awards Committee), Vice President of the International Students Club (organizing Night of All Nations with 600 participants), and Co-Lead of Google Developer Group Campus (co-organizing DevFest Reno).
