@@ -18,7 +18,7 @@ image:
   preview_only: false
 ---
 
-**Joint Intent and Trajectory Prediction (MTITP)** represents the headline generative contribution of Md Abu Sayed's doctoral dissertation (**Chapter 7**). Rather than treating intent recognition and trajectory forecasting as independent sequential pipelines, this work couples them inside a unified multi-task generative framework.
+**Joint Intent and Trajectory Prediction (MTITP)** is the generative sequence modeling framework developed in Chapter 7 of my doctoral dissertation. Rather than treating intent recognition and trajectory forecasting as separate problems, MTITP couples them in a unified multi-task network.
 
 ## Core Innovations & Architecture
 

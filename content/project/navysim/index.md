@@ -22,7 +22,7 @@ image:
   preview_only: false
 ---
 
-**NavySim: Multi-Vessel Simulation Engine (2022–2026)** is an advanced serious-game simulation and analysis platform built in Unity for naval autonomy research, developed across Md Abu Sayed's doctoral work funded by the Office of Naval Research (ONR).
+**NavySim: Multi-Vessel Simulation Engine (2022–2026)** is a serious-game simulation and analysis platform built in Unity for naval autonomy research, developed during my doctoral studies at the University of Nevada, Reno.
 
 ## System Architecture & Key Capabilities
 

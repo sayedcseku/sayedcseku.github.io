@@ -26,9 +26,9 @@ ORCID: https://orcid.org/0009-0005-8170-920X
   - **Autonomous Robotics**: Role-shifting and embodied perspective-taking on the Unitree G1 humanoid robot for human–robot collaboration.
 
 ### 3. Applied AI Scientist and Engineer
-- **Methodological Spine**: Deep learning for prediction, sequence modeling, and decision support under noisy, incomplete, and high-stakes observations.
+- **Methodology**: Deep learning for prediction, sequence modeling, and decision support under noisy, incomplete, and high-stakes observations.
 - **Engineering Stack**: Python, PyTorch, C#, Unity, OpenCV, NumPy, SciPy, scikit-learn, CUDA, Git, Docker, MATLAB, C++, SQL.
-- **End-to-End Delivery**: Proven track record developing production-grade machine learning pipelines, simulation-in-the-loop validation, explainable AI interfaces, and clinical-grade algorithmic decision support.
+- **Systems & Engineering**: Experience building machine learning pipelines, simulation-in-the-loop validation, explainable AI methods, and clinical decision support systems.
 
 ## Education
 - **Ph.D. in Computer Science & Engineering**, University of Nevada, Reno (2021–2026).

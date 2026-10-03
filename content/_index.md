@@ -40,15 +40,13 @@ sections:
       title: '📚 My Research'
       subtitle: 'Cardiovascular AI & CDSS · Joint Intent Recognition & Trajectory Prediction · Deep Learning'
       text: |-
-        As an **applied AI scientist and engineer**, my work unites two high-stakes domains: **medical image analysis & medical AI systems** (multimodal Cardiovascular AI & CDSS at UM CDCI) and **applied AI for autonomous systems** (joint intent recognition and trajectory prediction from my Ph.D. at UNR). Both pillars are driven by a single methodological spine: deep learning for prediction and decision support under noisy, incomplete, or safety-critical observations—leveraging temporal sequence modeling, generative architectures, and explainability to anticipate complex behaviors and guide critical actions.
+        My research focuses on cardiovascular AI, medical image analysis, and multi-agent intent recognition. At the University of Miami, I build multimodal clinical decision support systems that integrate IVUS, OCT, and angiography with biomechanical simulations for coronary interventions. During my doctoral studies at the University of Nevada, Reno, I developed simulation engines, feature attribution methods, and generative sequence models for trajectory prediction and intent recognition in autonomous systems.
 
         <div class="research-grid not-prose">
-        <div class="research-card"><span class="ico">🫀</span><h3>Cardiovascular AI &amp; CDSS <span class="tag">· Current</span></h3><p>At the University of Miami's Center for Digital Cardiovascular Innovations, I develop multimodal agentic AI fusing HD-IVUS, OCT, and Angiography with biomechanical simulation for procedural decision support in PCI.</p></div>
-        <div class="research-card"><span class="ico">🛰️</span><h3>Joint Intent Recognition &amp; Trajectory Prediction <span class="tag tag-muted">· PhD</span></h3><p>My doctoral dissertation at UNR: the NavySim multi-vessel simulator, explainable feature attribution (CPFI/TFIS), and MTITP—a multi-task GAN jointly predicting vessel intent and intent-conditioned trajectories.</p></div>
-        <div class="research-card"><span class="ico">🧠</span><h3>Foundational &amp; Applied AI</h3><p>Retinal vessel segmentation, multi-view mammography GCNs, and human–robot collaboration—translating anticipatory and generative deep learning to high-impact decision-support problems.</p></div>
+        <div class="research-card"><span class="ico">🫀</span><h3>Cardiovascular AI &amp; CDSS <span class="tag">· Current</span></h3><p>Multimodal deep learning integrating HD-IVUS, OCT, and angiography with biomechanical simulation for clinical decision support in PCI.</p></div>
+        <div class="research-card"><span class="ico">🛰️</span><h3>Joint Intent Recognition &amp; Trajectory Prediction <span class="tag tag-muted">· PhD</span></h3><p>Doctoral research at UNR developing the NavySim simulation engine, feature attribution methods (CPFI/TFIS), and multi-task generative models (MTITP) for intent and trajectory forecasting.</p></div>
+        <div class="research-card"><span class="ico">🧠</span><h3>Foundational &amp; Applied AI</h3><p>Research across retinal vessel segmentation, mammography analysis with graph neural networks, and human–robot collaboration studies.</p></div>
         </div>
-
-        My goal is trustworthy, anticipatory AI that understands dynamic environments and acts with reliability and transparency. Please reach out to collaborate 😃
     design:
       columns: '1'
       css_class: bg-slate-50 dark:bg-slate-900/50

@@ -11,7 +11,7 @@ sections:
     id: selected-projects
     content:
       title: Selected Projects
-      text: 'Flagship research spanning medical image analysis & medical AI systems, applied AI for autonomous systems, and generative deep learning.'
+      text: 'Selected projects in cardiovascular AI, autonomous systems, and generative sequence modeling.'
       count: 0
       filters:
         folders:
@@ -26,7 +26,7 @@ sections:
     id: foundational-research
     content:
       title: Earlier & Foundational Research
-      text: 'Foundational investigations in medical computer vision, graph neural networks, and sequence modeling architectures.'
+      text: 'Earlier work in medical image analysis and neural network architectures.'
       count: 0
       filters:
         folders:
