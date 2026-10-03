@@ -1,7 +1,7 @@
 ---
 title: "A semi-supervised approach to segment retinal blood vessels in color fundus photographs"
 authors:
-- \textbf{Md Abu Sayed}
+- Md Abu Sayed
 - Sajib Saha
 - GM Rahaman
 - Tanmai K Ghosh

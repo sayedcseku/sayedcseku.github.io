@@ -13,9 +13,11 @@ sections:
     content:
       username: admin
       text: ""
-      button:
-        text: Download CV
-        url: uploads/CV.pdf
+      buttons:
+        - text: Academic CV
+          url: uploads/CV_Academic.pdf
+        - text: Industry Resume
+          url: uploads/Resume_Industry.pdf
     design:
       css_class: dark
       avatar:
@@ -46,7 +48,7 @@ sections:
         <div class="research-card"><span class="ico">🧠</span><h3>Medical &amp; Visual AI</h3><p>Semi-supervised retinal vessel segmentation and multi-view Graph Convolutional Networks for mammography—building expertise in multimodal fusion and modeling under data scarcity.</p></div>
         </div>
 
-        My goal is anticipatory AI that understands its environment and acts with reliability, transparency, and safety—now extending these methods into cardiovascular medicine and digital health. [Download Research Statement (PDF)](/Files/Research%20Statement.pdf) · Please reach out to collaborate 😃
+        My goal is anticipatory AI that understands its environment and acts with reliability, transparency, and safety—now extending these methods into cardiovascular medicine and digital health. Please reach out to collaborate 😃
     design:
       columns: '1'
       css_class: bg-slate-50 dark:bg-slate-900/50

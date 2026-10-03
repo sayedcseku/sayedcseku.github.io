@@ -1,6 +1,7 @@
 ---
 title: "ThreatMap: Maritime Situational Awareness"
 date: 2023-12-05
+featured: true
 summary: Real-time heatmap framework fusing sensor coverage, vulnerability fields, and CPA-based threat estimates for naval situational awareness (2021–2023).
 links: []
 tags:

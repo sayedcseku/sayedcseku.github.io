@@ -1,6 +1,8 @@
 ---
 title: "Cardiovascular AI: Multimodal Imaging (IVUS/OCT & Angiography) & Agentic Decision Support"
+subtitle: "June 2026 – Present"
 date: 2026-06-08
+featured: true
 summary: Fusing IVUS, OCT, and X-ray Angiography for coronary lesion analysis and agentic clinical decision support in percutaneous coronary interventions (PCI).
 tags:
   - Cardiovascular AI
@@ -15,15 +17,18 @@ image:
   preview_only: false
 ---
 
-At the **Center for Digital Cardiovascular Innovations**, University of Miami Miller School of Medicine / UHealth System (directed by **Dr. Yiannis S. Chatzizisis**, Chief, Division of Cardiovascular Medicine), this research develops multimodal deep learning and **agentic clinical decision support systems (CDSS)** to empower interventional cardiologists before and during complex percutaneous coronary interventions (PCI).
+At the **Center for Digital Cardiovascular Innovations**, University of Miami Miller School of Medicine / UHealth System (**June 2026 – Present**; directed by **Dr. Yiannis S. Chatzizisis**, Chief, Division of Cardiovascular Medicine), this research develops multimodal deep learning and **agentic clinical decision support systems (CDSS)** to empower interventional cardiologists before and during complex percutaneous coronary interventions (PCI).
 
 ## Multimodal Image Analysis: IVUS, OCT & Angiography
 
 Effective clinical decision-making requires cross-scale structural awareness—from macroscopic vascular architecture to microscopic plaque vulnerability:
 
 - **High-Definition IVUS (HD-IVUS & NIRS-IVUS)**: Deep multi-task ConvNeXt-U-Net networks segmenting lumen, vessel wall (external elastic membrane), and plaque composition (calcium, fibrous, fibrolipidic) across 40,000+ expert-annotated IVUS frames.
-- **Intracoronary Optical Coherence Tomography (OCT)**: High-resolution (10–15 $\mu$m) optical profiling capturing thin-cap fibroatheromas (TCFA), macrophage infiltration, and acute post-stent malapposition.
+- **Intracoronary Optical Coherence Tomography (OCT)**: High-resolution (10–15 µm) optical profiling capturing thin-cap fibroatheromas (TCFA), macrophage infiltration, and acute post-stent malapposition.
 - **X-Ray Coronary Angiography (Luminography & QCA)**: Macroscopic vessel roadmapping, bifurcation anatomy tracking, and automated co-registration with pullback cross-sections.
+
+![Multitask ConvNeXt-U-Net Architecture for HD-IVUS](architecture.png)
+*Figure: Multitask ConvNeXt-U-Net architecture with multi-resolution stages (L0–L3) and specialized heads for radial-distance-weighted denoising, lumen/EEM boundary delineation, and plaque tissue characterization.*
 
 ## Agentic Clinical Decision Support System (CDSS)
 

@@ -1,6 +1,7 @@
 ---
 title: "Role Shifting in Human–Robot Collaboration"
 date: 2025-09-01
+featured: true
 summary: User perception study evaluating embodied perspective-taking and torso-based role shifting on the Unitree G1 humanoid robot (Fall 2025).
 links: []
 tags:

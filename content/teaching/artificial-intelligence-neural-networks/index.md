@@ -1,5 +1,5 @@
 ---
-title: "Artificial Intelligence & Neural Networks"
+title: "CSE 311: Artificial Intelligence & Neural Networks"
 summary: Undergraduate lecturer — classical AI search/logic and introductory neural networks with Python implementations.
 date: 2021-07-31
 type: docs

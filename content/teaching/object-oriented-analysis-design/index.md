@@ -1,5 +1,5 @@
 ---
-title: "Object-Oriented Analysis and Design"
+title: "CSE 321: Object-Oriented Analysis and Design"
 summary: Undergraduate lecturer — requirements analysis, UML modeling, design patterns, and OO system design.
 date: 2021-07-31
 type: docs

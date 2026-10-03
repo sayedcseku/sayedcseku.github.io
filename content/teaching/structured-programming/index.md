@@ -1,5 +1,5 @@
 ---
-title: "Structured Programming"
+title: "CSE 111: Structured Programming"
 summary: Undergraduate lecturer — control flow, functions, modular design, debugging, and style for maintainable C/C++ programs.
 date: 2021-07-31
 type: docs

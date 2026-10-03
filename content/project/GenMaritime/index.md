@@ -1,6 +1,7 @@
 ---
 title: "Joint Intent & Trajectory Prediction (MTITP GAN)"
 date: 2026-05-01
+featured: true
 summary: Multi-task conditional generative network (MTITP-WGAN) jointly classifying vessel intent and forecasting future multi-modal trajectory distributions (Chapter 7, Ph.D. Dissertation).
 links: []
 tags:
@@ -15,7 +16,7 @@ image:
   preview_only: false
 ---
 
-**Joint Intent and Trajectory Prediction (MTITP)** represents the headline generative contribution of Md Abu Sayed's doctoral dissertation (**Chapter 7**; developed at `/Users/msayed/Documents/Dev/GAN-AI`). Rather than treating intent recognition and trajectory forecasting as independent sequential pipelines, this work couples them inside a unified multi-task generative framework.
+**Joint Intent and Trajectory Prediction (MTITP)** represents the headline generative contribution of Md Abu Sayed's doctoral dissertation (**Chapter 7**). Rather than treating intent recognition and trajectory forecasting as independent sequential pipelines, this work couples them inside a unified multi-task generative framework.
 
 ## Core Innovations & Architecture
 

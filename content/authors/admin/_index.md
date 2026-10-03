@@ -151,7 +151,7 @@ work:
     date_start: 2019-06-15
     date_end: 2021-07-31
     summary: |
-      Undergraduate courses: Structured Programming, Data Structure, Database, Digital Logic Design, Artificial Intelligence & Neural Networks, Software Engineering, Object-Oriented Analysis and Design.
+      Undergraduate courses: CSE 111 (Structured Programming), CSE 121 (Digital Logic Design), CSE 211 (Data Structures), CSE 311 (Artificial Intelligence & Neural Networks), CSE 313 (Database Systems), CSE 321 (Object-Oriented Analysis and Design), and CSE 411 (Software Engineering).
       - Designed lecture materials, assignments, quizzes, and examinations aligned with learning outcomes.
       - Supervised project-based learning activities focusing on design patterns, testing, and documentation.
       - Served as Course Coordinator, contributing to course scheduling and curriculum alignment.

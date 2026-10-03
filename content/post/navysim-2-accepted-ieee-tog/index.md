@@ -10,4 +10,6 @@ tags:
   - Simulation
 ---
 
-**NavySim 2.0** has been accepted for publication in *IEEE Transactions on Games*. The paper presents our enhanced Unity-based multi-vessel simulation and analysis engine for advanced naval research, extending NavySim with improved scenario generation, threat visualization, and ML integration capabilities.
+**NavySim 2.0** has been published in *IEEE Transactions on Games*. The paper presents our enhanced Unity-based multi-vessel simulation and analysis engine for advanced naval research, extending NavySim with improved scenario generation, threat visualization, and ML integration capabilities.
+
+Read the paper on [IEEE Xplore (Document 11593091)](https://ieeexplore.ieee.org/abstract/document/11593091).

@@ -11,6 +11,11 @@ authors:
 - Sushil Louis
 date: 2026-06-24
 publication_types: ["article-journal"]
-publication: "IEEE Transactions on Games"
-projects: [pytorch]
+publication: "*IEEE Transactions on Games* (2026)"
+publication_short: "*IEEE ToG*"
+links:
+  - name: IEEE Xplore
+    url: https://ieeexplore.ieee.org/abstract/document/11593091
+url_source: https://ieeexplore.ieee.org/abstract/document/11593091
+projects: [navysim]
 ---

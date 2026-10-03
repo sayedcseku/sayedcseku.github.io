@@ -1,5 +1,5 @@
 ---
-title: "Database"
+title: "CSE 313: Database Systems"
 summary: Undergraduate lecturer — relational design, SQL, normalization, and database management systems.
 date: 2021-07-31
 type: docs

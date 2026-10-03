@@ -27,6 +27,7 @@ sections:
       title: Graduate Teaching Assistant
       subtitle: University of Nevada, Reno
       text: Supporting instruction in algorithmic reasoning, machine learning, and AI courses.
+      count: 0
       filters:
         folders:
           - teaching
@@ -40,6 +41,7 @@ sections:
       title: Lecturer (Independent Instruction)
       subtitle: The Millennium University, Bangladesh
       text: Designed and delivered undergraduate courses in programming, databases, and AI.
+      count: 0
       filters:
         folders:
           - teaching

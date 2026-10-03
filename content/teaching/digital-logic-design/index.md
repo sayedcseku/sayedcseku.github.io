@@ -1,5 +1,5 @@
 ---
-title: "Digital Logic Design"
+title: "CSE 121: Digital Logic Design"
 summary: Undergraduate lecturer — combinational and sequential logic, gates, flip-flops, and digital circuit design.
 date: 2021-07-31
 type: docs

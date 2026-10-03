@@ -1,5 +1,5 @@
 ---
-title: "Software Engineering"
+title: "CSE 411: Software Engineering"
 summary: Undergraduate lecturer — lifecycle models, requirements, design patterns, testing, and project management.
 date: 2021-07-31
 type: docs
