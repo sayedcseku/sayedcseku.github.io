@@ -1,33 +1,35 @@
 ---
 title: "NavySim: Multi-Vessel Simulation Engine"
-date: 2022-06-01
-summary: Unity-based naval simulator with physics-consistent multi-agent scenarios, real-time threat heatmaps, and ML-driven intent recognition for maritime research.
-links: []
+date: 2026-06-24
+summary: Physics-consistent multi-agent naval simulator with custom shaders, real-time CPA threat heatmaps, and ML-driven intent prediction (2022–2026).
+links:
+  - name: IEEE CoG Paper
+    url: https://ieeexplore.ieee.org/abstract/document/10645561
+  - name: Presentation Slides
+    url: https://docs.google.com/presentation/d/171YHcQB756reoXl0uMMFa4yRniJJ4Y5Q/edit?usp=sharing
 tags:
-  - Simulation
+  - Simulation Engine
   - Maritime AI
-  - Unity
-  - Intent Recognition
-  - C#
+  - Unity / C#
+  - Multi-Agent Systems
+  - System Architecture
 image:
-  caption: "NavySim multi-vessel maritime scenarios with heatmap visualization"
+  caption: "NavySim 2.0 system architecture and live multi-vessel tactical simulation with CPA threatmaps"
   focal_point: Smart
   preview_only: false
 ---
 
-**NavySim** is a Unity-based multi-vessel simulation and analysis engine developed for advanced naval research. It enables the creation of complex, physics-consistent maritime scenarios where multiple vessels interact in realistic environments.
+**NavySim: Multi-Vessel Simulation Engine (2022–2026)** is an advanced serious-game simulation and analysis platform built in Unity for naval autonomy research, developed across Md Abu Sayed's doctoral work funded by the Office of Naval Research (ONR).
 
-## Key Features
+## System Architecture & Key Capabilities
 
-- **Scenario Generation Pipeline**: Built a scenario-generation pipeline enabling physics-consistent multi-agent maritime interactions with configurable vessel dynamics, sensing ranges, and defensive coverage areas.
-
-- **Threat & Vulnerability Heatmaps**: Integrated real-time CPA/TCPA-based action heatmaps and vulnerability heatmaps (sensor/weapon coverage) via custom Unity shaders. These fuse into a unified threat heatmap for situational awareness.
-
-- **ML Integration**: Wired HMM/LSTM intent recognition models through a TCP pipeline, enabling real-time prediction of vessel intent and threat-aware decision support directly within the simulation.
-
-- **Deployment-Ready**: Designed for on-water deployment collaboration with Huntington Ingalls Industries and supports benchmarking of early intent prediction algorithms.
+- **Modular System Architecture**: Features decoupled subsystem managers (Scenario Manager, Agent Manager, Physics Engine, Threat Evaluation, and Sensor/Weapon Managers) facilitating rapid scenario prototyping and benchmarking.
+- **Physics-Consistent Multi-Agent Scenarios**: Supports heterogeneous surface vessels with configurable hydrodynamics, COLREGS-compliant collision avoidance (VOCCA), sensing envelopes, and defensive suites.
+- **Dynamic Threat & Vulnerability Surfaces**: Real-time shader pipeline calculates Closest Point of Approach (CPA/TCPA), sensor blindness zones, and weapon coverage to render unified threat surfaces.
+- **Integrated Machine Learning Loop**: Connects external PyTorch and statistical intent models (HMMs, LSTMs, Transformers, MTITP GANs) via high-throughput TCP streaming for real-time tactical decision support.
+- **Industry & Academic Deployment**: Validated in collaboration with naval researchers and industry partners (Huntington Ingalls Industries) for autonomous vessel interaction analysis.
 
 ## Related Publications
 
-- **NavySim: A Multi-Vessel Simulation and Analysis Engine for Naval Domains** — IEEE Conference on Games (CoG) 2024
-- **NavySim 2.0: Enhanced Multi-Vessel Simulation and Analysis Engine for Advanced Naval Research** — IEEE Transactions on Games 2025 (Accepted)
+- **NavySim 2.0: Enhanced Multi-Vessel Simulation and Analysis Engine for Advanced Naval Research** — *IEEE Transactions on Games* (2025/2026)
+- **NavySim: A Multi-Vessel Simulation and Analysis Engine for Naval Domains** — *IEEE Conference on Games (CoG)* 2024 · [IEEE Xplore (DOI: 10.1109/CoG60054.2024.10645561)](https://ieeexplore.ieee.org/abstract/document/10645561)

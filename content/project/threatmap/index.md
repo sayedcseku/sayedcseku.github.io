@@ -1,21 +1,21 @@
 ---
 title: "ThreatMap: Maritime Situational Awareness"
-date: 2021-08-01
-summary: Heatmap framework that fuses sensor coverage, vulnerability fields, and CPA-based threat estimates for real-time maritime risk visualization.
+date: 2023-12-05
+summary: Real-time heatmap framework fusing sensor coverage, vulnerability fields, and CPA-based threat estimates for naval situational awareness (2021–2023).
 links: []
 tags:
   - Maritime AI
-  - Visualization
-  - Python
+  - Situational Awareness
+  - Heatmap Visualization
   - Unity
-  - Shader
+  - C# / Shaders
 image:
-  caption: "ThreatMap heatmap showing threat levels around naval vessels"
+  caption: "ThreatMap dynamic risk heatmap in naval simulation (HMS 2024 / M.S. Thesis)"
   focal_point: Smart
   preview_only: false
 ---
 
-**ThreatMap** is an interpretable, real-time visualization framework for maritime risk assessment. It supports operator trust by providing spatial context behind mathematical model-based predictions through an intuitive green-to-red heatmap representation.
+**ThreatMap: Maritime Situational Awareness (2021–2023)** is an interpretable, real-time spatial risk visualization framework developed as part of Md Abu Sayed's M.S. thesis research at the University of Nevada, Reno, and published at HMS 2024. It translates complex kinematic relations and vessel capabilities into an intuitive green-to-red threat surface directly within maritime environments.
 
 ## Key Features
 

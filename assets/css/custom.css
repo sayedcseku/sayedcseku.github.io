@@ -43,62 +43,7 @@ article a:hover,
   color: inherit;
 }
 
-/* CTA buttons: subtle hover and center alignment */
-.research-actions {
-  display: flex !important;
-  flex-wrap: wrap !important;
-  align-items: center !important;
-  justify-content: center !important;
-  gap: 0.875rem !important;
-  margin: 1.5rem auto !important;
-  width: 100% !important;
-  text-align: center !important;
-}
-
-.research-btn {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  padding: 0.55rem 1.15rem;
-  font-size: 0.875rem;
-  font-weight: 500;
-  border-radius: 0.5rem;
-  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
-  text-decoration: none !important;
-  transition: all 0.15s ease;
-}
-
-.research-btn-primary {
-  background-color: var(--color-primary-600, #2563eb);
-  color: #ffffff !important;
-  border: 1px solid transparent;
-}
-.research-btn-primary:hover {
-  background-color: var(--color-primary-700, #1d4ed8);
-  color: #ffffff !important;
-  transform: translateY(-1px);
-}
-
-.research-btn-secondary {
-  background-color: #ffffff;
-  color: rgb(17 24 39) !important;
-  border: 1px solid rgb(229 231 235);
-}
-.dark .research-btn-secondary {
-  background-color: rgb(31 41 55);
-  color: rgb(209 213 219) !important;
-  border-color: rgb(75 85 99);
-}
-.research-btn-secondary:hover {
-  background-color: rgb(243 244 246);
-  color: var(--color-primary-600, #2563eb) !important;
-  transform: translateY(-1px);
-}
-.dark .research-btn-secondary:hover {
-  background-color: rgb(55 65 81);
-  color: #ffffff !important;
-}
-
+/* CTA buttons: subtle hover */
 a[href*="CV.pdf"],
 a[href*="Resume_Industry.pdf"],
 a[href*="CV_Academic.pdf"],

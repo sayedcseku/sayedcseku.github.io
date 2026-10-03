@@ -13,11 +13,9 @@ sections:
     content:
       username: admin
       text: ""
-      buttons:
-        - text: Academic CV
-          url: uploads/CV_Academic.pdf
-        - text: Industry Resume
-          url: uploads/Resume_Industry.pdf
+      button:
+        text: Download CV
+        url: uploads/CV.pdf
     design:
       css_class: dark
       avatar:
@@ -48,7 +46,7 @@ sections:
         <div class="research-card"><span class="ico">🧠</span><h3>Medical &amp; Visual AI</h3><p>Semi-supervised retinal vessel segmentation and multi-view Graph Convolutional Networks for mammography—building expertise in multimodal fusion and modeling under data scarcity.</p></div>
         </div>
 
-        My goal is anticipatory AI that understands its environment and acts with reliability, transparency, and safety—now extending these methods into cardiovascular medicine and digital health. Please reach out to collaborate 😃
+        My goal is anticipatory AI that understands its environment and acts with reliability, transparency, and safety—now extending these methods into cardiovascular medicine and digital health. [Download Research Statement (PDF)](/Files/Research%20Statement.pdf) · Please reach out to collaborate 😃
     design:
       columns: '1'
       css_class: bg-slate-50 dark:bg-slate-900/50
@@ -77,6 +75,10 @@ sections:
         folders:
           - publication
         exclude_featured: false
+      archive:
+        enable: true
+        text: 'View all publications →'
+        link: 'publication/'
     design:
       view: citation
       css_class: bg-slate-50 dark:bg-slate-900/40
@@ -86,13 +88,17 @@ sections:
     id: projects
     content:
       title: Selected Projects
-      subtitle: 'Research & development across maritime AI, medical imaging, and simulation'
+      subtitle: 'Research & development across cardiovascular AI, maritime autonomy, generative modeling, and robotics'
       text: ''
-      count: 4
+      count: 6
       filters:
         folders:
           - project
       order: desc
+      archive:
+        enable: true
+        text: 'View all projects →'
+        link: 'projects/'
     design:
       view: article-grid
       fill_image: true

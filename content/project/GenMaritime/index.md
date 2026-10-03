@@ -1,33 +1,34 @@
 ---
-title: "Generative Sequence Modeling for Maritime Behaviors"
-date: 2024-01-01
-summary: Multi-task generative models (CVAE, TimeGAN, ACGAN, LSTM-GAN) for forecasting vessel motion and reconstructing sparse maritime sensor data.
+title: "Joint Intent & Trajectory Prediction (MTITP GAN)"
+date: 2026-05-01
+summary: Multi-task conditional generative network (MTITP-WGAN) jointly classifying vessel intent and forecasting future multi-modal trajectory distributions (Chapter 7, Ph.D. Dissertation).
 links: []
 tags:
-  - Generative Models
-  - Sequence Modeling
-  - Maritime AI
+  - Generative Adversarial Networks
+  - Multi-Task Learning
+  - Trajectory Prediction
+  - Intent Recognition
   - Deep Learning
 image:
-  caption: "Generative models for maritime trajectory forecasting and imputation"
+  caption: "MTITP multi-task GAN architecture: joint past-intent classification, future-intent forecasting, and trajectory generation"
   focal_point: Smart
   preview_only: false
 ---
 
-**Generative Sequence Modeling for Maritime Behaviors** builds probabilistic and deep generative models to address missing data, irregular sampling, and future trajectory prediction in maritime sensor streams.
+**Joint Intent and Trajectory Prediction (MTITP)** represents the headline generative contribution of Md Abu Sayed's doctoral dissertation (**Chapter 7**; developed at `/Users/msayed/Documents/Dev/GAN-AI`). Rather than treating intent recognition and trajectory forecasting as independent sequential pipelines, this work couples them inside a unified multi-task generative framework.
 
-## Key Contributions
+## Core Innovations & Architecture
 
-- **Missing Data Reconstruction**: Real-world maritime streams often contain dropouts and irregular sampling, which degrade early-intent performance. CVAE-based latent models and LSTM-GAN generators learn the joint distribution of past and future motion, serving as imputers for incomplete trajectories.
+- **MTITP-WGAN Framework**: Formulates a Multi-Task Intent and Trajectory Prediction Generative Adversarial Network trained with Wasserstein loss and gradient penalty (WGAN-GP) to eliminate mode collapse and generate realistic, multi-modal future paths.
+- **Three-Pronged Joint Output**:
+  1. **Past-Intent Classification**: Recognizes behavioral intent over historical encounter windows.
+  2. **Future-Intent Forecasting**: Predicts forward-looking tactical intent transitions.
+  3. **Intent-Conditioned Trajectory Synthesis**: Generates kinematically feasible future coordinate sequences conditioned on predicted intent.
+- **Robustness Under Sensor Noise**: Evaluated extensively across simulator-generated benchmarks with varying noise regimes (Noiseless, Noisy 1, Noisy 2) and out-of-distribution adversarial encounters (herding, ramming, blocking).
+- **Ablation & Baselines**: Rigorously benchmarked against MarITGAN v2 and non-adversarial variants (MTITP-L2) to isolate the exact contribution of adversarial loss to trajectory fidelity.
 
-- **Future Trajectory Prediction**: Models simulate multiple plausible futures, supporting scenario forecasting, counterfactual analysis, and data augmentation for adversarial events.
+## Forthcoming Publications
 
-- **Multi-Task Design**: Designed architectures that jointly predict future vessel motion and latent intent, enabling richer representations for downstream decision systems.
-
-- **Integration with NavySim**: Models integrate with the naval simulation platform for scenario generation and evaluation under uncertainty.
-
-## Research Directions
-
-- CVAE, TimeGAN, ACGAN, and LSTM-GAN–inspired variants
-- Encoder–decoder models for long-horizon forecasting
-- Simulation of adversarial naval behaviors
+- **Two pending journal manuscripts** are currently derived from this framework:
+  - *Joint Multi-Task Intent and Trajectory Prediction for Autonomous Maritime Surface Vessels using Wasserstein GANs* (Target: *IEEE Transactions on Intelligent Transportation Systems (T-ITS)*)
+  - *Generative Scenario Augmentation and Counterfactual Intent Analysis in Safety-Critical Maritime Encounters*
