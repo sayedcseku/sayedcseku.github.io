@@ -44,7 +44,7 @@ sections:
 
         <div class="research-grid not-prose">
         <div class="research-card"><span class="ico">🫀</span><h3>Cardiovascular AI &amp; CDSS <span class="tag">· Current</span></h3><p>At the University of Miami's Center for Digital Cardiovascular Innovations, I develop multimodal agentic AI fusing HD-IVUS, OCT, and Angiography with biomechanical simulation for procedural decision support in PCI.</p></div>
-        <div class="research-card"><span class="ico">🛰️</span><h3>Multi-Agent Intent Recognition <span class="tag tag-muted">· PhD</span></h3><p>My ONR-funded dissertation at UNR: the NavySim multi-vessel simulator, explainable feature attribution (CPFI/TFIS), and MTITP—a multi-task GAN jointly predicting vessel intent and intent-conditioned trajectories.</p></div>
+        <div class="research-card"><span class="ico">🛰️</span><h3>Multi-Agent Intent Recognition <span class="tag tag-muted">· PhD</span></h3><p>My doctoral dissertation at UNR: the NavySim multi-vessel simulator, explainable feature attribution (CPFI/TFIS), and MTITP—a multi-task GAN jointly predicting vessel intent and intent-conditioned trajectories.</p></div>
         <div class="research-card"><span class="ico">🧠</span><h3>Foundational &amp; Applied AI</h3><p>Retinal vessel segmentation, multi-view mammography GCNs, and human–robot collaboration—translating anticipatory and generative deep learning to high-impact decision-support problems.</p></div>
         </div>
 
