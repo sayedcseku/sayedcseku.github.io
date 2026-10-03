@@ -4,15 +4,14 @@ date: 2024-05-19
 type: landing
 
 design:
-  spacing: '5rem'
+  spacing: '4rem'
 
 sections:
   - block: collection
     id: selected-projects
     content:
       title: Selected Projects
-      subtitle: 'Flagship research across cardiovascular AI, maritime autonomy, generative modeling, and robotics'
-      text: ''
+      text: 'Flagship research across cardiovascular AI, maritime autonomy, generative modeling, and robotics.'
       count: 0
       filters:
         folders:
@@ -24,11 +23,10 @@ sections:
       columns: 2
 
   - block: collection
-    id: prior-projects
+    id: foundational-research
     content:
-      title: Prior & Exploratory Research
-      subtitle: 'Early deep sequence architectures, graph neural networks, and biomedical computer vision'
-      text: ''
+      title: Earlier & Foundational Research
+      text: 'Foundational investigations in medical computer vision, graph neural networks, and sequence modeling architectures.'
       count: 0
       filters:
         folders:
@@ -37,5 +35,6 @@ sections:
     design:
       view: article-grid
       fill_image: true
-      columns: 2
+      columns: 3
+      css_class: bg-slate-50 dark:bg-slate-900/50 py-12 rounded-2xl
 ---

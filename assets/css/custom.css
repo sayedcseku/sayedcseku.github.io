@@ -181,3 +181,11 @@ footer {
   font-weight: 400;
   opacity: 0.9;
 }
+
+/* 3-column grid support for earlier research projects */
+@media (min-width: 768px) {
+  .md\:grid-cols-3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+  }
+}
+
