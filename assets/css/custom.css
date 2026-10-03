@@ -45,13 +45,15 @@ article a:hover,
 
 /* CTA buttons: subtle hover */
 a[href*="CV.pdf"],
-a[href*="Research%20Statement"],
+a[href*="Resume_Industry.pdf"],
+a[href*="CV_Academic.pdf"],
 button {
   transition: opacity 0.2s ease, transform 0.15s ease;
 }
 
 a[href*="CV.pdf"]:hover,
-a[href*="Research%20Statement"]:hover {
+a[href*="Resume_Industry.pdf"]:hover,
+a[href*="CV_Academic.pdf"]:hover {
   opacity: 0.9;
 }
 

@@ -1,4 +1,4 @@
 ---
-title: Blog
+title: News & Updates
 view: article-grid
 ---

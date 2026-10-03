@@ -12,20 +12,16 @@ sections:
       title: 'Academic & Professional Dossier'
       subtitle: 'Postdoctoral Research · Ph.D. Autonomy · Mentoring · Teaching'
       text: |-
-        Below is an overview of my research and industry appointments, academic degrees, technical skill set, and certifications. Full master application documents are available below:
+        Below is an overview of my research and industry appointments, academic degrees, mentorship, service, and technical skill set. Both my full academic CV and industry resume are available below:
 
-        <div class="research-actions not-prose" style="margin-top: 1.5rem; justify-content: flex-start;">
-          <a href="/uploads/CV.pdf" target="_blank" class="research-btn research-btn-primary">
+        <div class="research-actions not-prose" style="margin-top: 1.5rem; justify-content: flex-start; gap: 0.75rem; flex-wrap: wrap;">
+          <a href="/uploads/CV_Academic.pdf" target="_blank" class="research-btn research-btn-primary">
             <svg class="w-4 h-4 inline-block mr-1.5 -mt-0.5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
-            Download Academic CV (PDF)
+            Research / Academic CV (PDF)
           </a>
-          <a href="/Files/Research%20Statement.pdf" target="_blank" class="research-btn research-btn-secondary">
-            <svg class="w-4 h-4 inline-block mr-1.5 -mt-0.5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
-            Research Statement (PDF)
-          </a>
-          <a href="/Files/Teaching%20Statement.pdf" target="_blank" class="research-btn research-btn-secondary">
-            <svg class="w-4 h-4 inline-block mr-1.5 -mt-0.5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"></path></svg>
-            Teaching Statement (PDF)
+          <a href="/uploads/Resume_Industry.pdf" target="_blank" class="research-btn research-btn-secondary">
+            <svg class="w-4 h-4 inline-block mr-1.5 -mt-0.5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
+            Industry Resume (PDF)
           </a>
         </div>
     design:
@@ -40,6 +36,45 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
+
+  - block: markdown
+    content:
+      title: 'Mentoring & Student Supervision'
+      subtitle: 'Guiding graduate and undergraduate researchers'
+      text: |-
+        - **Thesis Co-Supervisor**, Khulna University (2026–Present):
+          - **M.S. Thesis**: _Pedestrian Intent Recognition for Autonomous Vehicles_ (co-supervised with Prof. G. M. Atiqur Rahaman).
+          - **B.S. Thesis**: _Coronary OCT Segmentation for Cardiovascular Interventions_ (co-supervised with Prof. G. M. Atiqur Rahaman).
+        - **Technical Team Lead**, Pluto in Aquarius LLC (2025–2026):
+          - Mentored and supervised a team of 4 student engineers (2 M.S., 2 B.S.) on system architecture, code review standards, and experiment design.
+        - **Capstone Supervisor**, The Millennium University (2019–2021):
+          - Supervised undergraduate capstone software engineering and AI projects.
+    design:
+      columns: '1'
+      spacing:
+        padding: ['2rem', '0', '1rem', '0']
+
+  - block: markdown
+    content:
+      title: 'Professional Service & Leadership'
+      subtitle: 'Peer review and university community leadership'
+      text: |-
+        - **Peer Reviewer**:
+          - _BMC Digital Health_
+          - _PLOS ONE_
+          - _Information Systems_
+          - IEEE Conference on Games (CoG)
+        - **UNR Graduate Student Association (GSA)** (2024–2025):
+          - Council Member & Chair, Awards Committee
+        - **Google Developer Group (GDG) on Campus, UNR** (2024–2025):
+          - Co-Lead; co-organized DevFest Reno
+        - **International Students Club, UNR** (2023–2024):
+          - Vice President; organized _Night of All Nations_ (600+ attendees)
+    design:
+      columns: '1'
+      spacing:
+        padding: ['2rem', '0', '1rem', '0']
+
   - block: resume-skills
     content:
       title: Skills & Hobbies
@@ -48,7 +83,7 @@ sections:
       show_skill_percentage: false
   - block: resume-awards
     content:
-      title: Awards
+      title: Honors & Awards
       username: admin
   - block: resume-languages
     content:

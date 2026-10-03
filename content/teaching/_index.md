@@ -7,7 +7,7 @@ design:
   spacing: '5rem'
 
 cascade:
-  - _target:
+  - target:
       kind: page
     params:
       show_breadcrumb: true
@@ -19,8 +19,6 @@ sections:
       subtitle: 'Active learning · Hands-on projects · Inclusive support'
       text: |-
         I believe students learn best when they can see, build, and experiment with the ideas they are learning. My teaching emphasizes active, hands-on learning—integrating coding exercises, visual explanations, and term-long projects that connect theory to coherent systems. I have taught across the full academic spectrum, from first-generation and working students to advanced learners, using transparent course organization, scaffolded assignments, and equitable support.
-
-        [Download Teaching Statement (PDF)](/Files/Teaching%20Statement.pdf)
     design:
       columns: '1'
   - block: collection

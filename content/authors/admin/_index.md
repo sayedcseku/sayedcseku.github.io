@@ -100,9 +100,6 @@ education:
       GPA: 3.31/4.0
       
       Thesis on _Automated method to segment retinal blood vessels from color fundus photographs_. Supervised by  [Prof. G M Atiqur Rahaman](https://ku.ac.bd/discipline/cse/faculty/gmatiq) and co-supervised by [Dr. Sajib Saha](https://www.linkedin.com/in/sajibsaha/)
-    button:
-      text: 'Read B.Sc. Thesis'
-      url: 'https://sayedcseku.github.io/uploads/Thesis-Retinal-Vessel-Segmentation.pdf'
       
 work:
   - position: Postdoctoral Research Scholar
@@ -212,6 +209,21 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: IEEE CIS Travel Award ($1,200)
+    date: '2024-08-01'
+    awarder: IEEE Computational Intelligence Society
+    summary: |
+      Competitive travel award ($1,200 USD) awarded by the IEEE Computational Intelligence Society (CIS) to support travel and paper presentation of NavySim at the 2024 IEEE Conference on Games (CoG 2024) in Milan, Italy.
+  - title: UNR GSA Travel Award ($700)
+    date: '2025-05-01'
+    awarder: Graduate Student Association, University of Nevada, Reno
+    summary: |
+      Competitive travel grant ($700 USD) awarded by the UNR Graduate Student Association to support conference travel and research presentation.
+  - title: UNR GSA Travel Award ($500)
+    date: '2024-05-01'
+    awarder: Graduate Student Association, University of Nevada, Reno
+    summary: |
+      Competitive travel grant ($500 USD) awarded by the UNR Graduate Student Association to support conference attendance and research dissemination.
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
@@ -266,4 +278,4 @@ Welcome to the personal website of Md Abu Sayed, a Postdoctoral Research Scholar
 
 That thread connects two worlds he loves: medicine and autonomous systems. Sayed began in medical image analysis, developing semi-supervised retinal vessel segmentation and multi-view Graph Convolutional Networks for mammography, learning to model fine structure under data scarcity. He then earned his Ph.D. in Computer Science and Engineering from the University of Nevada, Reno (May 2026), where his ONR-funded dissertation, _Deep Generative and Explainable Learning Frameworks for Intent Recognition in Naval Domain_, produced the **NavySim** maritime simulator, explainable feature attribution (**CPFI/TFIS**), and **MTITP**—a multi-task GAN that jointly recognizes vessel intent, forecasts future intent, and generates intent-conditioned trajectories. His cardiovascular research now brings these temporal and generative methods back to medicine, reuniting his clinical-imaging roots with the AI he advanced in autonomy.
 
-Before his Ph.D., Sayed was a Lecturer at The Millennium University, Bangladesh, and he earned his B.S. from Khulna University (thesis on retinal vessel segmentation) and M.S. from UNR (thesis on ThreatMap for naval security awareness). Beyond research, he has served as Council Member of the Graduate Student Association (Chair, Awards Committee), Vice President of the International Students Club (organizing Night of All Nations with 600 participants), and Co-Lead of Google Developer Group Campus (co-organizing DevFest Reno).
+Before his Ph.D., Sayed was a Lecturer at The Millennium University, Bangladesh, and he earned his B.S. from Khulna University (thesis on retinal vessel segmentation) and M.S. from UNR (thesis on ThreatMap for naval security awareness). Beyond research, he has served as Council Member of the Graduate Student Association (Chair, Awards Committee), Vice President of the International Students Club (organizing Night of All Nations with 600 participants), Co-Lead of Google Developer Group on Campus (co-organizing DevFest Reno), and peer reviewer for _BMC Digital Health_, _PLOS ONE_, _Information Systems_, and the IEEE Conference on Games.

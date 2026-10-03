@@ -31,8 +31,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Md Abu Sayed — Ph.D. Candidate in Computer Science at UNR. Research in maritime intent recognition, simulation-driven AI, and anticipatory intelligent systems.'
-    twitter: 'GetResearchDev'
+    description: 'Md Abu Sayed — Postdoctoral Researcher at the Center for Digital Cardiovascular Innovations, University of Miami Miller School of Medicine; Ph.D. in Computer Science & Engineering (UNR). Research in cardiovascular AI, medical imaging, generative modeling, and multi-agent intent recognition.'
+    twitter: 'sayedcseku'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -57,12 +57,9 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {2025} Me. This work is licensed under {license}'
+    notice: '© {year} Md Abu Sayed. All rights reserved.'
     license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+      enable: false
 
 # Localization
 locale:
