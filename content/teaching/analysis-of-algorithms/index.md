@@ -3,6 +3,8 @@ title: "CS 477/677: Analysis of Algorithms"
 summary: Teaching assistant for four offerings; led reviews, graded exams/assignments, and mentored students on algorithm design and complexity analysis.
 date: 2025-01-15
 type: docs
+aliases:
+  - /teaching/js/
 math: false
 tags:
   - Teaching

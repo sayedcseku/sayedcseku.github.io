@@ -3,6 +3,8 @@ title: "CS 422/622: Introduction to Machine Learning"
 summary: Graduate/undergraduate ML support — lectures, review sessions, homework/project design, grading, and office hours.
 date: 2025-09-01
 type: docs
+aliases:
+  - /teaching/python/
 math: false
 tags:
   - Teaching

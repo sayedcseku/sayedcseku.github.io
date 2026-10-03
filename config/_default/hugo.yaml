@@ -53,5 +53,16 @@ markup:
     lineNos: false
 security:
   _merge: deep
+  node:
+    permissions:
+      disable: true
+  exec:
+    allow:
+      - '^(dart-)?sass$'
+      - '^go$'
+      - '^npx$'
+      - '^node$'
+      - '^postcss$'
+      - '^tailwindcss$'
 sitemap:
   _merge: deep
