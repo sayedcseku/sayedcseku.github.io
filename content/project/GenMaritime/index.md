@@ -5,6 +5,8 @@ featured: true
 summary: Multi-task conditional generative network (MTITP-WGAN) jointly classifying vessel intent and forecasting future multi-modal trajectory distributions (Chapter 7, Ph.D. Dissertation).
 links: []
 tags:
+  - Autonomous Systems
+  - Applied AI
   - Generative Adversarial Networks
   - Multi-Task Learning
   - Trajectory Prediction

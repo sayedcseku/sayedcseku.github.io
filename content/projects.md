@@ -11,7 +11,7 @@ sections:
     id: selected-projects
     content:
       title: Selected Projects
-      text: 'Flagship research across cardiovascular AI, maritime autonomy, generative modeling, and robotics.'
+      text: 'Flagship research spanning medical image analysis & medical AI systems, applied AI for autonomous systems, and generative deep learning.'
       count: 0
       filters:
         folders:

@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# LLM & AI Agent Context Standard: https://llmstxt.org/
+# Authoritative candidate profile: https://sayedcseku.github.io/llms.txt
+
+Sitemap: https://sayedcseku.github.io/sitemap.xml

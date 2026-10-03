@@ -5,6 +5,8 @@ date: 2026-06-08
 featured: true
 summary: Fusing IVUS, OCT, and X-ray Angiography for coronary lesion analysis and agentic clinical decision support in percutaneous coronary interventions (PCI).
 tags:
+  - Medical Image Analysis
+  - Medical AI Systems
   - Cardiovascular AI
   - Multimodal Medical Imaging
   - IVUS / OCT

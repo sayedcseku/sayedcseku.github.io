@@ -1,0 +1,45 @@
+# Md Abu Sayed, Ph.D.
+> Postdoctoral Research Scholar at the Center for Digital Cardiovascular Innovations (CDCI), University of Miami Miller School of Medicine. Ph.D. in Computer Science & Engineering from University of Nevada, Reno (May 2026). Applied AI Scientist and Engineer specializing in Medical Image Analysis, Medical AI Systems, and Applied AI for Autonomous Systems.
+
+Website: https://sayedcseku.github.io/
+Email: sayed.unr@gmail.com
+Google Scholar: https://scholar.google.com/citations?hl=en&user=U3-jpUgAAAAJ
+GitHub: https://github.com/sayedcseku
+LinkedIn: https://www.linkedin.com/in/sayedcseku
+ORCID: https://orcid.org/0009-0005-8170-920X
+
+## Primary Job Profiles & Specializations
+
+### 1. Specialist in Medical Image Analysis & Medical AI Systems
+- **Current Role**: Postdoctoral Research Scholar, Center for Digital Cardiovascular Innovations (CDCI), University of Miami Miller School of Medicine / UHealth System (PI: Dr. Yiannis S. Chatzizisis, Chief of Cardiovascular Medicine).
+- **Core Focus**: Multimodal intracoronary image analysis fusing 60 MHz High-Definition Intravascular Ultrasound (HD-IVUS), Optical Coherence Tomography (OCT), and X-ray Angiography for coronary lesion phenotyping and agentic Clinical Decision Support Systems (CDSS).
+- **Technical Capabilities**: Multi-class deep learning segmentation (Lumen, EEM, fibrous plaque, calcified arc with acoustic shadowing), automated stent sizing, finite element analysis (FEA) expansion simulation, under-expansion risk prediction, and lesion preparation guidance (e.g., Intravascular Lithotripsy [IVL] vs. rotational atherectomy).
+- **Foundational Work**: Retinal vessel segmentation using Local Haar Patterns (DRIVE, STARE, CHASE_DB1); graph convolutional networks (GCNs) and Mask-RCNN for bilateral/ipsilateral mammogram fusion in breast cancer detection.
+
+### 2. Applied AI Scientist for Autonomous Systems
+- **Doctoral Research**: Ph.D. in Computer Science & Engineering, University of Nevada, Reno (Defended May 2026). Advising: Prof. Monica Nicolescu and Prof. Mircea Nicolescu.
+- **Core Focus**: Multi-agent intent recognition, future-intent forecasting, and intent-conditioned trajectory prediction in safety-critical autonomous maritime environments.
+- **Key Contributions**:
+  - **NavySim Multi-Vessel Simulation Engine**: High-fidelity Unity simulation engine with custom shaders, real-time CPA/TCPA threat heatmaps, and streaming TCP integration for machine learning models (*IEEE Transactions on Games* 2026, *IEEE CoG* 2024).
+  - **Explainable Feature Attribution (CPFI & TFIS)**: Permutation feature importance and temporal feature importance scoring isolating bearing-rate, CPA/TCPA, and heading dynamics for early behavior recognition (*IEEE FMLDS* 2025).
+  - **MTITP-WGAN**: Multi-task generative adversarial network jointly performing past-intent classification, future-intent forecasting, and multi-modal trajectory synthesis under heavy sensor noise (Chapter 7, Ph.D. Dissertation).
+  - **Autonomous Robotics**: Role-shifting and embodied perspective-taking on the Unitree G1 humanoid robot for human–robot collaboration.
+
+### 3. Applied AI Scientist and Engineer
+- **Methodological Spine**: Deep learning for prediction, sequence modeling, and decision support under noisy, incomplete, and high-stakes observations.
+- **Engineering Stack**: Python, PyTorch, C#, Unity, OpenCV, NumPy, SciPy, scikit-learn, CUDA, Git, Docker, MATLAB, C++, SQL.
+- **End-to-End Delivery**: Proven track record developing production-grade machine learning pipelines, simulation-in-the-loop validation, explainable AI interfaces, and clinical-grade algorithmic decision support.
+
+## Education
+- **Ph.D. in Computer Science & Engineering**, University of Nevada, Reno (2021–2026).
+  - Dissertation: *Deep Generative and Explainable Learning Frameworks for Intent Recognition in Naval Domain*.
+- **M.S. in Computer Science & Engineering**, Khulna University, Bangladesh.
+  - Thesis: *Pedestrian Intent Recognition for Autonomous Vehicles*.
+- **B.S. in Computer Science & Engineering**, Khulna University, Bangladesh.
+
+## Key Publications & Venues
+- **IEEE Transactions on Games (2026)**: *NavySim 2.0: An Enhanced Multi-Vessel Simulation and Analysis Engine for Advanced Naval Research*.
+- **IEEE Conference on Games (CoG 2024, Milan)**: *NavySim: A Multi-Vessel Simulation and Analysis Engine for Naval Domains*.
+- **IEEE International Conference on Future Machine Learning and Data Science (FMLDS 2025)**: *Feature-Aware Deep Learning for Maritime Intent Recognition*.
+- **IEEE International Conference on Systems, Man, and Cybernetics (SMC 2024)**: *Interpretable Spatial Threat Visualization*.
+- **IEEE CASE (2025)**: Multiple contributions in maritime behavior prediction and intent modeling.

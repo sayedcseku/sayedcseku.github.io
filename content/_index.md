@@ -40,7 +40,7 @@ sections:
       title: '📚 My Research'
       subtitle: 'Cardiovascular AI & CDSS · Joint Intent Recognition & Trajectory Prediction · Deep Learning'
       text: |-
-        My research focuses on two core domains: **Cardiovascular AI & CDSS** and **Joint Intent Recognition and Trajectory Prediction**. Both are driven by a single methodological spine: deep learning for prediction and decision support under noisy, incomplete, or high-stakes observations—using temporal sequence modeling, generative architectures, and explainability to anticipate complex behaviors and guide critical actions.
+        As an **applied AI scientist and engineer**, my work unites two high-stakes domains: **medical image analysis & medical AI systems** (multimodal Cardiovascular AI & CDSS at UM CDCI) and **applied AI for autonomous systems** (joint intent recognition and trajectory prediction from my Ph.D. at UNR). Both pillars are driven by a single methodological spine: deep learning for prediction and decision support under noisy, incomplete, or safety-critical observations—leveraging temporal sequence modeling, generative architectures, and explainability to anticipate complex behaviors and guide critical actions.
 
         <div class="research-grid not-prose">
         <div class="research-card"><span class="ico">🫀</span><h3>Cardiovascular AI &amp; CDSS <span class="tag">· Current</span></h3><p>At the University of Miami's Center for Digital Cardiovascular Innovations, I develop multimodal agentic AI fusing HD-IVUS, OCT, and Angiography with biomechanical simulation for procedural decision support in PCI.</p></div>
