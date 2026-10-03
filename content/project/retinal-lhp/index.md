@@ -1,6 +1,6 @@
 ---
 title: "Retinal Image Analysis & Local Haar Pattern (LHP) Descriptor"
-date: 2021-01-01
+date: 2018-06-01
 summary: Segmentation pipelines and Local Haar Pattern descriptor for retinal fundus images, achieving state-of-the-art accuracy on DRIVE, STARE, and CHASE_DB1.
 links:
   - icon: brands/github

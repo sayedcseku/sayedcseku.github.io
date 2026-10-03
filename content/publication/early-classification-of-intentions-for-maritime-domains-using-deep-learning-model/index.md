@@ -16,13 +16,8 @@ author_notes:
   - ''
   - ''
 
-date: 2025-08-18
+date: 2025-01-01
 publication_types: ['paper-conference']
-publication: "2025 IEEE 21st International Conference on Automation Science and Engineering (CASE)"
+publication: "IEEE International Conference on Automation Science and Engineering (CASE)"
 projects: [intent-recognition-maritime]
-featured: true
-
-hugoblox:
-  ids:
-    doi: 10.1109/CASE58245.2025.11163860
 ---

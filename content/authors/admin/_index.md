@@ -215,12 +215,12 @@ awards:
     summary: |
       Competitive travel award ($1,200 USD) awarded by the IEEE Computational Intelligence Society (CIS) to support travel and paper presentation of NavySim at the 2024 IEEE Conference on Games (CoG 2024) in Milan, Italy.
   - title: UNR GSA Travel Award ($700)
-    date: '2025-05-01'
+    date: '2024-08-01'
     awarder: Graduate Student Association, University of Nevada, Reno
     summary: |
       Competitive travel grant ($700 USD) awarded by the UNR Graduate Student Association to support conference travel and research presentation.
   - title: UNR GSA Travel Award ($500)
-    date: '2024-05-01'
+    date: '2025-11-01'
     awarder: Graduate Student Association, University of Nevada, Reno
     summary: |
       Competitive travel grant ($500 USD) awarded by the UNR Graduate Student Association to support conference attendance and research dissemination.

@@ -36,8 +36,18 @@ hugoblox:
 
 # Custom links
 links:
+  - type: pdf
+    url: ""
+  - type: code
+    url: ""
+  - type: dataset
+    url: ""
   - type: slides
     url: https://docs.google.com/presentation/d/171YHcQB756reoXl0uMMFa4yRniJJ4Y5Q/edit?usp=sharing&ouid=105064277540442270443&rtpof=true&sd=true
+  - type: source
+    url: ""
+  - type: video
+    url: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -47,7 +57,11 @@ image:
   preview_only: false
 
 # Associated Projects (optional).
-projects: [navysim]
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: [pytorch]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

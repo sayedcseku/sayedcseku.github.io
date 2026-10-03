@@ -6,7 +6,7 @@ authors:
 - Monica Nicolescu
 - Mircea Nicolescu
 - Sushil Louis
-date: 2023-11-13
+date: 2023-01-01
 publication_types: ['paper-conference']
 publication: "Proceedings of the 20th International Conference on Informatics in Control, Automation and Robotics - Volume 1: ICINCO"
 

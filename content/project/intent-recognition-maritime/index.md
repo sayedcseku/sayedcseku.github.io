@@ -1,6 +1,6 @@
 ---
 title: "Intent Recognition for Maritime Autonomy"
-date: 2025-08-18
+date: 2022-06-01
 summary: Deep and probabilistic intent classifiers (HMMs, LSTMs, Transformers) for early vessel behavior prediction in adversarial maritime scenarios.
 links: []
 tags:

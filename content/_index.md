@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2026-10-03
+date: 2025-08-23
 type: landing
 
 design:
@@ -13,11 +13,9 @@ sections:
     content:
       username: admin
       text: ""
-      buttons:
-        - text: Research / Academic CV
-          url: uploads/CV_Academic.pdf
-        - text: Industry Resume
-          url: uploads/Resume_Industry.pdf
+      button:
+        text: Download CV
+        url: uploads/CV.pdf
     design:
       css_class: dark
       avatar:
@@ -36,7 +34,6 @@ sections:
 
   # Research: Clean section with soft accent
   - block: markdown
-    id: research
     content:
       title: '📚 My Research'
       subtitle: 'Cardiovascular AI · Predictive Modeling · Medical Imaging · Intent Recognition'
@@ -49,7 +46,7 @@ sections:
         <div class="research-card"><span class="ico">🧠</span><h3>Medical &amp; Visual AI</h3><p>Semi-supervised retinal vessel segmentation and multi-view Graph Convolutional Networks for mammography—building expertise in multimodal fusion and modeling under data scarcity.</p></div>
         </div>
 
-        My goal is anticipatory AI that understands its environment and acts with reliability, transparency, and safety—now extending these methods into cardiovascular medicine and digital health. Please reach out to collaborate 😃
+        My goal is anticipatory AI that understands its environment and acts with reliability, transparency, and safety—now extending these methods into cardiovascular medicine and digital health. [Download Research Statement (PDF)](/Files/Research%20Statement.pdf) · Please reach out to collaborate 😃
     design:
       columns: '1'
       css_class: bg-slate-50 dark:bg-slate-900/50
@@ -78,10 +75,6 @@ sections:
         folders:
           - publication
         exclude_featured: false
-      archive:
-        enable: true
-        text: 'View all publications →'
-        link: 'publication/'
     design:
       view: citation
       css_class: bg-slate-50 dark:bg-slate-900/40
@@ -93,15 +86,11 @@ sections:
       title: Selected Projects
       subtitle: 'Research & development across maritime AI, medical imaging, and simulation'
       text: ''
-      count: 6
+      count: 4
       filters:
         folders:
           - project
       order: desc
-      archive:
-        enable: true
-        text: 'View all projects →'
-        link: 'projects/'
     design:
       view: article-grid
       fill_image: true
@@ -126,7 +115,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: News & Updates
+      title: Recent News
       subtitle: ''
       text: ''
       page_type: post

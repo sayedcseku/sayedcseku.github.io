@@ -6,7 +6,7 @@ authors:
 - Sergiu Dascalu
 - Monica Nicolescu
 - Mircea Nicolescu
-date: 2024-04-15
+date: 2024-01-01
 publication_types: ['paper-conference']
 publication: "International Conference on Information Technology-New Generations"
 ---
