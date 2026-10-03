@@ -79,8 +79,6 @@ education:
     date_start: 2021-08-01
     date_end: 2023-12-05
     summary: |
-      GPA: 3.9/4.0
-
       Thesis on _Threatmap: A Framework for Enhancing Security Awareness and Decision-Making for Naval Agents_. Supervised by [Prof. Monica Nicolescu](https://www.cse.unr.edu/~monica/) and cosupervised by [Prof. Mircea Nicolescu](https://www.cse.unr.edu/~mircea/). Presented 1 papers at IEEE Conference on Games, 1 Simulation Conference and published at 3 other conferences/journals.
 
       Courses included:
@@ -97,8 +95,6 @@ education:
     date_start: 2014-12-01
     date_end: 2019-01-15
     summary: |
-      GPA: 3.31/4.0
-      
       Thesis on _Automated method to segment retinal blood vessels from color fundus photographs_. Supervised by  [Prof. G M Atiqur Rahaman](https://ku.ac.bd/discipline/cse/faculty/gmatiq) and co-supervised by [Dr. Sajib Saha](https://www.linkedin.com/in/sajibsaha/)
       
 work:
