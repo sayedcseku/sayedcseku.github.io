@@ -6,10 +6,10 @@ authors:
 - Parvaneh Aliniya
 - Monica Nicolescu
 - Mircea Nicolescu
-date: 2024-01-01
+date: 2024-09-18
 publication_types: ['paper-conference']
 publication: "Proceedings of the 26th International Conference on Harbor, Maritime and Multimodal Logistic Modeling & Simulation (HMS 2024)"
-projects: [pandas]
+projects: [threatmap]
 
 hugoblox:
   ids:

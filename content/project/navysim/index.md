@@ -1,6 +1,6 @@
 ---
 title: "NavySim: Multi-Vessel Simulation Engine"
-date: 2022-06-01
+date: 2026-06-24
 summary: Unity-based naval simulator with physics-consistent multi-agent scenarios, real-time threat heatmaps, and ML-driven intent recognition for maritime research.
 links: []
 tags:
@@ -30,4 +30,4 @@ image:
 ## Related Publications
 
 - **NavySim: A Multi-Vessel Simulation and Analysis Engine for Naval Domains** — IEEE Conference on Games (CoG) 2024
-- **NavySim 2.0: Enhanced Multi-Vessel Simulation and Analysis Engine for Advanced Naval Research** — IEEE Transactions on Games 2025 (Accepted)
+- **NavySim 2.0: Enhanced Multi-Vessel Simulation and Analysis Engine for Advanced Naval Research** — IEEE Transactions on Games 2026

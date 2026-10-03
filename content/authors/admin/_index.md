@@ -224,52 +224,6 @@ awards:
     awarder: Graduate Student Association, University of Nevada, Reno
     summary: |
       Competitive travel grant ($500 USD) awarded by the UNR Graduate Student Association to support conference attendance and research dissemination.
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code.
-  - title: Deep Learning Specialization
-    url: https://www.coursera.org/specializations/deep-learning
-    date: '2020-10-01'
-    awarder: Coursera / DeepLearning.AI
-    icon: coursera
-    summary: |
-      Comprehensive specialization covering Neural Networks, Improving DNNs, Structuring ML Projects, Convolutional Networks, and Sequence Models. Core foundation for computer vision and NLP research.
-  - title: Convolutional Neural Networks
-    url: https://www.coursera.org/learn/convolutional-neural-networks
-    date: '2020-08-01'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      Architectures for image recognition, object detection, and neural style transfer. Applied to medical image analysis and computer vision projects.
-  - title: Build Basic Generative Adversarial Networks (GANs)
-    url: https://www.coursera.org/learn/build-basic-gans
-    date: '2021-04-01'
-    awarder: DeepLearning.AI
-    icon: coursera
-    summary: |
-      Built and trained GANs for image generation. Foundation for generative sequence modeling work in maritime trajectory simulation.
 ---
 
 ## About Me

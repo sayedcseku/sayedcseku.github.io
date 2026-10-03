@@ -6,7 +6,7 @@ authors:
 - Monica Nicolescu
 - Mircea Nicolescu
 - Sushil Louis
-date: 2024-01-01
-publication_types: ['paper-conference']
-publication: "International Conference on Informatics in Control, Automation and Robotics"
+date: 2026-01-01
+publication_types: ['chapter']
+publication: "Informatics in Control, Automation and Robotics, Springer Nature Switzerland, pp. 69–95"
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Experience'
-date: 2025-08-25
+date: 2026-10-03
 type: landing
 
 design:
@@ -28,13 +28,12 @@ sections:
       columns: '1'
       spacing:
         padding: ['3rem', '0', '1rem', '0']
+
   - block: resume-experience
     content:
       username: admin
     design:
-      # Hugo date format
       date_format: 'January 2006'
-      # Education or Experience section first?
       is_education_first: false
 
   - block: markdown
@@ -81,10 +80,44 @@ sections:
       username: admin
     design:
       show_skill_percentage: false
+
   - block: resume-awards
     content:
-      title: Honors & Awards
+      title: Honors & Travel Awards
       username: admin
+
+  - block: markdown
+    content:
+      title: 'Professional Certifications'
+      subtitle: 'Specialized deep learning and AI curriculum'
+      text: |-
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4 not-prose mt-4">
+          <div class="p-5 bg-white border border-gray-200 rounded-lg shadow-sm dark:bg-gray-800 dark:border-gray-700">
+            <h4 class="text-base font-semibold text-gray-900 dark:text-white mb-1"><a href="https://www.coursera.org/specializations/deep-learning" target="_blank" rel="noopener" class="hover:text-primary-600 dark:hover:text-primary-400">Deep Learning Specialization</a></h4>
+            <p class="text-xs text-gray-500 dark:text-gray-400 mb-2">Coursera &amp; DeepLearning.AI · 2020</p>
+            <p class="text-xs text-gray-600 dark:text-gray-300 leading-relaxed">5-course specialization covering Neural Networks, Improving DNNs, Structuring ML Projects, CNNs, and Sequence Models. Core foundation for computer vision and temporal sequence modeling.</p>
+          </div>
+          <div class="p-5 bg-white border border-gray-200 rounded-lg shadow-sm dark:bg-gray-800 dark:border-gray-700">
+            <h4 class="text-base font-semibold text-gray-900 dark:text-white mb-1"><a href="https://www.coursera.org/learn/build-basic-gans" target="_blank" rel="noopener" class="hover:text-primary-600 dark:hover:text-primary-400">Build Basic Generative Adversarial Networks (GANs)</a></h4>
+            <p class="text-xs text-gray-500 dark:text-gray-400 mb-2">DeepLearning.AI · 2021</p>
+            <p class="text-xs text-gray-600 dark:text-gray-300 leading-relaxed">Foundations of adversarial loss, WGAN-GP, and conditional generative architectures applied to trajectory synthesis.</p>
+          </div>
+          <div class="p-5 bg-white border border-gray-200 rounded-lg shadow-sm dark:bg-gray-800 dark:border-gray-700">
+            <h4 class="text-base font-semibold text-gray-900 dark:text-white mb-1"><a href="https://www.coursera.org/learn/convolutional-neural-networks" target="_blank" rel="noopener" class="hover:text-primary-600 dark:hover:text-primary-400">Convolutional Neural Networks</a></h4>
+            <p class="text-xs text-gray-500 dark:text-gray-400 mb-2">Coursera · 2020</p>
+            <p class="text-xs text-gray-600 dark:text-gray-300 leading-relaxed">Architectures for image recognition, semantic segmentation, and object detection for visual and medical imaging.</p>
+          </div>
+          <div class="p-5 bg-white border border-gray-200 rounded-lg shadow-sm dark:bg-gray-800 dark:border-gray-700">
+            <h4 class="text-base font-semibold text-gray-900 dark:text-white mb-1"><a href="https://www.coursera.org/learn/neural-networks-deep-learning" target="_blank" rel="noopener" class="hover:text-primary-600 dark:hover:text-primary-400">Neural Networks and Deep Learning</a></h4>
+            <p class="text-xs text-gray-500 dark:text-gray-400 mb-2">Coursera · 2023</p>
+            <p class="text-xs text-gray-600 dark:text-gray-300 leading-relaxed">Vectorized forward/backward propagation, parameter tuning, and foundational optimization algorithms.</p>
+          </div>
+        </div>
+    design:
+      columns: '1'
+      spacing:
+        padding: ['2rem', '0', '1rem', '0']
+
   - block: resume-languages
     content:
       title: Languages

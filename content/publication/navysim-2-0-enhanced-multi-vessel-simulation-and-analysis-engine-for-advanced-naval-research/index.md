@@ -12,5 +12,6 @@ authors:
 date: 2026-06-24
 publication_types: ["article-journal"]
 publication: "IEEE Transactions on Games"
-projects: [pytorch]
+projects: [navysim]
+featured: true
 ---

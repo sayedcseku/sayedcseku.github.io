@@ -6,8 +6,8 @@ authors:
 - Ayesh Meepaganithage
 - Monica Nicolescu
 - Mircea Nicolescu
-date: 2025-01-01
+date: 2025-11-02
 publication_types: ['paper-conference']
-publication: "IEEE International Conference on Future Machine Learning and Data Science (FMLDS 2025)"
+publication: "2025 IEEE International Conference on Future Machine Learning and Data Science (FMLDS), pp. 338–344"
 projects: [intent-recognition-maritime]
 ---

@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2025-08-23
+date: 2026-10-03
 type: landing
 
 design:
@@ -13,9 +13,11 @@ sections:
     content:
       username: admin
       text: ""
-      button:
-        text: Download CV
-        url: uploads/CV.pdf
+      buttons:
+        - text: Research / Academic CV
+          url: uploads/CV_Academic.pdf
+        - text: Industry Resume
+          url: uploads/Resume_Industry.pdf
     design:
       css_class: dark
       avatar:
@@ -34,6 +36,7 @@ sections:
 
   # Research: Clean section with soft accent
   - block: markdown
+    id: research
     content:
       title: '📚 My Research'
       subtitle: 'Cardiovascular AI · Predictive Modeling · Medical Imaging · Intent Recognition'
@@ -123,7 +126,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: News & Updates
       subtitle: ''
       text: ''
       page_type: post

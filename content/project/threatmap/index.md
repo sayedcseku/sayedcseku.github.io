@@ -1,6 +1,6 @@
 ---
 title: "ThreatMap: Maritime Situational Awareness"
-date: 2021-08-01
+date: 2024-09-18
 summary: Heatmap framework that fuses sensor coverage, vulnerability fields, and CPA-based threat estimates for real-time maritime risk visualization.
 links: []
 tags:

@@ -4,9 +4,9 @@ authors:
 - Tanmai K Ghosh
 - Sajib Saha
 - GM Rahaman
-- \textbf{Md Abu Sayed}
+- Md Abu Sayed
 - Yogesan Kanagasingam
-date: 2019-01-01
+date: 2019-07-02
 publication_types: ['paper-conference']
 publication: "Iberian Conference on Pattern Recognition and Image Analysis"
 projects: [retinal-lhp]
