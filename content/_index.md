@@ -38,17 +38,17 @@ sections:
   - block: markdown
     content:
       title: '📚 My Research'
-      subtitle: 'Cardiovascular AI · Predictive Modeling · Medical Imaging · Intent Recognition'
+      subtitle: 'Intracoronary Image Analysis & Agentic CDSS · Multi-Agent Intent Recognition · Predictive Machine Learning'
       text: |-
-        My work lives where two passions meet—medicine and autonomous systems—joined by one toolkit: temporal, generative, and explainable deep learning. From retinal and mammography imaging, to naval intent recognition, to today's cardiovascular AI, I build models that learn from complex real-world signals, anticipate what comes next, and explain why.
+        My research focuses on two core domains: **Intracoronary Image Analysis & Agentic CDSS** and **Intent Recognition in Multi-Agent Systems**. Both are driven by a single methodological spine: machine learning for prediction and decision support under noisy, incomplete, or high-stakes observations—using temporal sequence modeling, generative architectures, and explainability to anticipate complex behaviors and guide critical actions.
 
         <div class="research-grid not-prose">
-        <div class="research-card"><span class="ico">🫀</span><h3>Cardiovascular AI <span class="tag">· Current</span></h3><p>At the University of Miami's Center for Digital Cardiovascular Innovations, I apply AI and computational modeling—including generative and explainable deep learning—to cardiovascular imaging and clinical decision support.</p></div>
-        <div class="research-card"><span class="ico">🛰️</span><h3>Naval Intent Recognition <span class="tag tag-muted">· PhD</span></h3><p>My ONR-funded dissertation: the NavySim simulator, explainable feature attribution (CPFI/TFIS), and MTITP—a multi-task GAN that jointly classifies vessel intent, forecasts future intent, and generates intent-conditioned trajectories.</p></div>
-        <div class="research-card"><span class="ico">🧠</span><h3>Medical &amp; Visual AI</h3><p>Semi-supervised retinal vessel segmentation and multi-view Graph Convolutional Networks for mammography—building expertise in multimodal fusion and modeling under data scarcity.</p></div>
+        <div class="research-card"><span class="ico">🫀</span><h3>Intracoronary AI &amp; CDSS <span class="tag">· Current</span></h3><p>At the University of Miami's Center for Digital Cardiovascular Innovations, I develop multimodal agentic AI fusing HD-IVUS, OCT, and Angiography with biomechanical simulation for procedural decision support in PCI.</p></div>
+        <div class="research-card"><span class="ico">🛰️</span><h3>Multi-Agent Intent Recognition <span class="tag tag-muted">· PhD</span></h3><p>My ONR-funded dissertation at UNR: the NavySim multi-vessel simulator, explainable feature attribution (CPFI/TFIS), and MTITP—a multi-task GAN jointly predicting vessel intent and intent-conditioned trajectories.</p></div>
+        <div class="research-card"><span class="ico">🧠</span><h3>Foundational &amp; Applied AI</h3><p>Retinal vessel segmentation, multi-view mammography GCNs, and human–robot collaboration—translating anticipatory and generative deep learning to high-impact decision-support problems.</p></div>
         </div>
 
-        My goal is anticipatory AI that understands its environment and acts with reliability, transparency, and safety—now extending these methods into cardiovascular medicine and digital health. Please reach out to collaborate 😃
+        My goal is trustworthy, anticipatory AI that understands dynamic environments and acts with reliability and transparency. Please reach out to collaborate 😃
     design:
       columns: '1'
       css_class: bg-slate-50 dark:bg-slate-900/50

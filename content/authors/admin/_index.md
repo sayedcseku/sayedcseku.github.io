@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 'Postdoctoral Researcher<br><span class="role-tags">Cardiovascular AI · Generative AI · Medical Imaging · Intent Recognition</span>'
+role: 'Postdoctoral Researcher<br><span class="role-tags">Intracoronary Image Analysis &amp; Agentic CDSS · Multi-Agent Intent Recognition · Predictive AI</span>'
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -50,12 +50,11 @@ profiles:
     url: https://orcid.org/0009-0005-8170-920X
 
 interests:
-  - Cardiovascular AI & Digital Health
-  - Temporal, Generative & Explainable Deep Learning
-  - Intent Recognition in Multi-agent Systems
-  - Medical Image Analysis & Computer Vision
-  - Human–Robot Collaboration
-  
+  - Intracoronary Image Analysis & Agentic CDSS
+  - Intent Recognition & Trajectory Prediction in Multi-Agent Systems
+  - Temporal, Generative & Explainable Machine Learning
+  - Simulation-Based Decision Support & Applied AI
+
 
 education:
   - area: Ph.D. in Computer Science & Engineering
@@ -224,10 +223,11 @@ awards:
 
 ## About Me
 
-I am a Postdoctoral Research Scholar at the **Center for Digital Cardiovascular Innovations**, University of Miami Miller School of Medicine / UHealth System, working with **Dr. Yiannis S. Chatzizisis**. My research develops temporal, generative, and explainable AI to advance intracoronary imaging (HD-IVUS, OCT), biomechanical modeling, and agentic decision support for percutaneous coronary interventions (PCI).
+I am a Postdoctoral Research Scholar at the **Center for Digital Cardiovascular Innovations**, University of Miami Miller School of Medicine / UHealth System, working with **Dr. Yiannis S. Chatzizisis**. My core research centers on **intracoronary image analysis** (HD-IVUS, OCT, and Angiography) and **multimodal agentic AI for Clinical Decision Support Systems (CDSS)** in percutaneous coronary interventions.
 
-I completed my Ph.D. in Computer Science and Engineering at the University of Nevada, Reno (May 2026), supported by the Office of Naval Research (ONR). My doctoral research produced the **NavySim** simulation engine (*IEEE Transactions on Games*), explainable feature attribution frameworks (**CPFI/TFIS**), and multi-task generative sequence models (**MTITP**) for safety-critical intent recognition. My work bridges biomedical informatics and safety-critical autonomy—developing trustworthy machine learning that anticipates dynamic environments and provides transparent clinical guidance.
+My research foundation stems from my Ph.D. in Computer Science and Engineering at the University of Nevada, Reno (May 2026, ONR-funded), where I specialized in **intent recognition and trajectory prediction in multi-agent systems**. That work produced the **NavySim** simulation engine (*IEEE Transactions on Games*), explainable feature attribution frameworks (**CPFI/TFIS**), and multi-task generative sequence models (**MTITP**). Across both fields, my research is driven by machine learning for prediction from incomplete, noisy, or weakly labeled observations—using temporal, generative, and explainable deep learning as a methodological engine, with an active interest in translating applied AI to high-impact domains.
 
 Earlier, I served as a Lecturer in Computer Science and Engineering at The Millennium University, Bangladesh. I actively contribute as a peer reviewer for journals and conferences including *BMC Digital Health*, *PLOS ONE*, *Information Systems*, and the *IEEE Conference on Games*.
+
 
 
